@@ -1,0 +1,16 @@
+{
+  "name": "bamboohr_salus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "salus",
+    "bamboohr",
+    "api"
+  ],
+  "author": "Derek Larsen",
+  "license": "ISC"
+}
