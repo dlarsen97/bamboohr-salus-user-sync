@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm i && npx api install '@bamboohr/v1#i2n7tmlzn2o5k' && node scripts/patch-bamboohr-spec.js"
   },
   "keywords": [
     "salus",
@@ -12,5 +13,13 @@
     "api"
   ],
   "author": "Derek Larsen",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@api/bamboohr": "file:.api/apis/bamboohr",
+    "dotenv": "^17.3.1"
+  }
 }
