@@ -10,9 +10,13 @@ bamboohr.auth(api_key, "x")
 
 bamboohr.server('https://stacywitbeck.bamboohr.com')
 
-// bamboohr.getEmployeesList({ 'page[limit]': '50' })
-//     .then(({ data }) => console.log(data))
-//     .catch(err => console.error(err));
 
+export { bamboohr }
 
-bamboohr.listTrainingTypes().then((data => console.log(data))).catch(error => console.error(error))
+if (require.main === module) {
+    // getEmployeesList works, but listTrainingTypes doesn't work, permissions issue TODO: get with Linda and fix permissions issue
+    bamboohr.getEmployeesList({ 'page[limit]': '50' })
+        .then(({ data }) => console.log(data))
+        .catch(err => console.error(err));
+    // bamboohr.listTrainingTypes().then((data => console.log(data))).catch(error => console.error(error))
+}

@@ -1,14 +1,16 @@
 import "dotenv/config";
+import salus from "@api/salus"
 
 const TOKEN_URL = "https://guardian.beta.salussafety.io/token";
-const API_BASE = "https://developer.beta.salussafety.io";
 
 const { CLIENT_ID, CLIENT_SECRET } = process.env;
 if (!CLIENT_ID || !CLIENT_SECRET) {
     throw new Error("CLIENT_ID and CLIENT_SECRET must be set in .env");
 }
 
-async function getAccessToken(): Promise<string> {
+let tokenExpiresAt = 0;
+
+async function refreshAuth(): Promise<void> {
     const res = await fetch(TOKEN_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -24,31 +26,26 @@ async function getAccessToken(): Promise<string> {
         throw new Error(`Token request failed: ${res.status} ${await res.text()}`);
     }
 
-    const { access_token } = await res.json() as { access_token: string };
-    return access_token;
+    const { access_token, expires_in } = await res.json() as { access_token: string; expires_in: number };
+    salus.auth(access_token);
+    // Refresh 60 seconds before actual expiry
+    tokenExpiresAt = Date.now() + (expires_in - 60) * 1000;
 }
 
-async function searchUsers(token: string, query?: string) {
-    const params = new URLSearchParams({ limit: "50" });
-    if (query) params.set("query", query);
-
-    const res = await fetch(`${API_BASE}/v1/user/?${params}`, {
-        headers: { Authorization: `Bearer ${token}` },
-    });
-
-    if (!res.ok) {
-        throw new Error(`Search users failed: ${res.status} ${await res.text()}`);
+export async function getSalus() {
+    if (Date.now() >= tokenExpiresAt) {
+        await refreshAuth();
     }
-
-    return res.json();
+    return salus;
 }
 
-async function main() {
-    const token = await getAccessToken();
-    console.log("Access token acquired.");
+export { salus };
 
-    const users = await searchUsers(token);
-    console.log(users);
+if(require.main == module){
+    async function main() {
+        const salus = await getSalus()
+        const response = await salus.search_v1_user__get({limit: 5});
+        console.log("response:", response.data.data)
+    }
+    main();
 }
-
-main().catch(console.error);
