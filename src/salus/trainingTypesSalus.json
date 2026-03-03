@@ -1,0 +1,314 @@
+{
+    "error": false,
+    "message": "Certificate Types Found",
+    "data": [
+        {
+            "name": "CPR/AED & First Aid",
+            "required": false,
+            "id": 39453,
+            "slug": "cpraed--first-aid",
+            "companyId": 1246989
+        },
+        {
+            "name": "Crisis Management",
+            "required": false,
+            "id": 39454,
+            "slug": "crisis-management",
+            "companyId": 1246989
+        },
+        {
+            "name": "10 Hour OSHA",
+            "required": false,
+            "id": 39456,
+            "slug": "10-hour-osha",
+            "companyId": 1246989
+        },
+        {
+            "name": "Supervisor Safety Orientation",
+            "required": false,
+            "id": 39457,
+            "slug": "supervisor-safety-orientation",
+            "companyId": 1246989
+        },
+        {
+            "name": "Forklift Operator Certification",
+            "required": false,
+            "id": 39458,
+            "slug": "forklift-operator-certification",
+            "companyId": 1246989
+        },
+        {
+            "name": "Supervisor Drug and Alcohol Awareness (Reasonable Suspicion) Non-DOT",
+            "required": false,
+            "id": 39459,
+            "slug": "supervisor-drug-and-alcohol-awareness-reasonable-suspicion-non-dot",
+            "companyId": 1246989
+        },
+        {
+            "name": "Safety Culture Excellence Workshop (SCEW)",
+            "required": false,
+            "id": 39460,
+            "slug": "safety-culture-excellence-workshop-scew",
+            "companyId": 1246989
+        },
+        {
+            "name": "Risk Tolerance and Hazard Recognition",
+            "required": false,
+            "id": 39461,
+            "slug": "risk-tolerance-and-hazard-recognition",
+            "companyId": 1246989
+        },
+        {
+            "name": "STCKY Training (Sh!t That Can Kill You)",
+            "required": false,
+            "id": 39462,
+            "slug": "stcky-training-sht-that-can-kill-you",
+            "companyId": 1246989
+        },
+        {
+            "name": "Aerial Lifts Operator Certification",
+            "required": false,
+            "id": 39463,
+            "slug": "aerial-lifts-operator-certification",
+            "companyId": 1246989
+        },
+        {
+            "name": "Heat Illness Prevention - Supervisors",
+            "required": false,
+            "id": 39464,
+            "slug": "heat-illness-prevention---supervisors",
+            "companyId": 1246989
+        },
+        {
+            "name": "Hearing Conservation",
+            "required": false,
+            "id": 39465,
+            "slug": "hearing-conservation",
+            "companyId": 1246989
+        },
+        {
+            "name": "Heat Illness Prevention - Employees",
+            "required": false,
+            "id": 39466,
+            "slug": "heat-illness-prevention---employees",
+            "companyId": 1246989
+        },
+        {
+            "name": "30 Hour OSHA",
+            "required": false,
+            "id": 39468,
+            "slug": "30-hour-osha",
+            "companyId": 1246989
+        },
+        {
+            "name": "Bloodborne Pathogens",
+            "required": false,
+            "id": 39469,
+            "slug": "bloodborne-pathogens",
+            "companyId": 1246989
+        },
+        {
+            "name": "Safety Assessment Walk (SAW) Training",
+            "required": false,
+            "id": 39470,
+            "slug": "safety-assessment-walk-saw-training",
+            "companyId": 1246989
+        },
+        {
+            "name": "Roadway Worker Protection (RWP / Railroad)",
+            "required": false,
+            "id": 39471,
+            "slug": "roadway-worker-protection-rwp--railroad",
+            "companyId": 1246989
+        },
+        {
+            "name": "Speak Up! / Listen Up!",
+            "required": false,
+            "id": 39472,
+            "slug": "speak-up--listen-up",
+            "companyId": 1246989
+        },
+        {
+            "name": "Shift Prep and Stretch Breaks Coach",
+            "required": false,
+            "id": 39473,
+            "slug": "shift-prep-and-stretch-breaks-coach",
+            "companyId": 1246989
+        },
+        {
+            "name": "Silica Competent Person",
+            "required": false,
+            "id": 39474,
+            "slug": "silica-competent-person",
+            "companyId": 1246989
+        },
+        {
+            "name": "Confined Space Entry",
+            "required": false,
+            "id": 39475,
+            "slug": "confined-space-entry",
+            "companyId": 1246989
+        },
+        {
+            "name": "Workplace Violence From Threats to Active Shootings",
+            "required": false,
+            "id": 39476,
+            "slug": "workplace-violence-from-threats-to-active-shootings",
+            "companyId": 1246989
+        },
+        {
+            "name": "Fall Protection Competent Person",
+            "required": false,
+            "id": 39477,
+            "slug": "fall-protection-competent-person-",
+            "companyId": 1246989
+        },
+        {
+            "name": "Fall Protection Safety",
+            "required": false,
+            "id": 39478,
+            "slug": "fall-protection-safety",
+            "companyId": 1246989
+        },
+        {
+            "name": "FRA Post-Accident Determination",
+            "required": false,
+            "id": 39479,
+            "slug": "fra-post-accident-determination",
+            "companyId": 1246989
+        },
+        {
+            "name": "Hazard Communication - GHS",
+            "required": false,
+            "id": 39480,
+            "slug": "hazard-communication---ghs",
+            "companyId": 1246989
+        },
+        {
+            "name": "Shift Start-Up / Job Briefing",
+            "required": false,
+            "id": 39481,
+            "slug": "shift-start-up--job-briefing",
+            "companyId": 1246989
+        },
+        {
+            "name": "Excavations/Trenches Competent Person",
+            "required": false,
+            "id": 39482,
+            "slug": "excavationstrenches-competent-person",
+            "companyId": 1246989
+        },
+        {
+            "name": "Job Hazard Analysis",
+            "required": false,
+            "id": 39483,
+            "slug": "job-hazard-analysis-",
+            "companyId": 1246989
+        },
+        {
+            "name": "Confined Space Awareness (non-entry)",
+            "required": false,
+            "id": 39484,
+            "slug": "confined-space-awareness-non-entry",
+            "companyId": 1246989
+        },
+        {
+            "name": "Confined Space Atmospheric Testing (Gas Detectors)",
+            "required": false,
+            "id": 39485,
+            "slug": "confined-space-atmospheric-testing-gas-detectors-",
+            "companyId": 1246989
+        },
+        {
+            "name": "Confined Space Competent Person",
+            "required": false,
+            "id": 39486,
+            "slug": "confined-space-competent-person",
+            "companyId": 1246989
+        },
+        {
+            "name": "Wildfire Smoke Protection - Employees",
+            "required": false,
+            "id": 39487,
+            "slug": "wildfire-smoke-protection---employees",
+            "companyId": 1246989
+        },
+        {
+            "name": "Silica Awareness",
+            "required": false,
+            "id": 39488,
+            "slug": "silica-awareness",
+            "companyId": 1246989
+        },
+        {
+            "name": "Scaffold User Training",
+            "required": false,
+            "id": 39489,
+            "slug": "scaffold-user-training",
+            "companyId": 1246989
+        },
+        {
+            "name": "Foundations for Safety Leadership",
+            "required": false,
+            "id": 39490,
+            "slug": "foundations-for-safety-leadership",
+            "companyId": 1246989
+        },
+        {
+            "name": "Equipment Safety Training Program",
+            "required": false,
+            "id": 39491,
+            "slug": "equipment-safety-training-program",
+            "companyId": 1246989
+        },
+        {
+            "name": "Excavations/Trenches Safety",
+            "required": false,
+            "id": 39492,
+            "slug": "excavationstrenches-safety",
+            "companyId": 1246989
+        },
+        {
+            "name": "Fire Protection/Prevention",
+            "required": false,
+            "id": 39493,
+            "slug": "fire-protectionprevention",
+            "companyId": 1246989
+        },
+        {
+            "name": "Rigging Fundamentals",
+            "required": false,
+            "id": 39494,
+            "slug": "rigging-fundamentals",
+            "companyId": 1246989
+        },
+        {
+            "name": "Qualified Rigger",
+            "required": false,
+            "id": 39495,
+            "slug": "qualified-rigger",
+            "companyId": 1246989
+        },
+        {
+            "name": "Certified Rigger",
+            "required": false,
+            "id": 39496,
+            "slug": "certified-rigger",
+            "companyId": 1246989
+        },
+        {
+            "name": "Certified Signal Person",
+            "required": false,
+            "id": 39497,
+            "slug": "certified-signal-person",
+            "companyId": 1246989
+        },
+        {
+            "name": "Qualified Signal Person",
+            "required": false,
+            "id": 39498,
+            "slug": "qualified-signal-person",
+            "companyId": 1246989
+        }
+    ]
+}

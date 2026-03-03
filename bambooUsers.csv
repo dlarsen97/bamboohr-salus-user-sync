@@ -1,0 +1,691 @@
+eeid,firstName,lastName,employeeNumber,dateOfBirth,hireDate,email,homePhone,mobilePhone,workPhone,jobInformationLocation,_restrictedFields
+29365,Michael,Green,743,1961-07-11,2002-07-10,mgreen@stacywitbeck.com,,415-850-5767,,Alameda,employee_workPhone
+29372,Derek,Andersen,103,1977-03-18,1995-11-02,dandersen@stacywitbeck.com,,503-849-0287,,Portland,employee_workPhone
+29375,Ryan,Bates,247,1977-02-23,2001-02-15,rbates@stacywitbeck.com,,971-506-1395,,Omaha,employee_workPhone
+29380,George,Furnanz,700,1962-06-12,1987-10-19,gfurnanz@stacywitbeck.com,,415-850-6732,,Alameda,employee_workPhone
+29386,Michael,Orueta,1386,1976-07-19,2006-09-11,morueta@stacywitbeck.com,,602-721-4880,,Tempe,employee_workPhone
+29389,Richard,Wunderlich,1524,1957-01-14,1998-05-18,rwunderlich@stacywitbeck.com,,415-305-4876,,Alameda,employee_workPhone
+29395,Clayton,Gilliland,1559,1970-02-24,1999-09-20,cgilliland@stacywitbeck.com,,801-301-2090,,Salt Lake City,employee_workPhone
+29403,Ryan,Snow,1589,1975-08-09,2000-12-18,rsnow@stacywitbeck.com,,801-390-2662,,Salt Lake City,employee_workPhone
+29408,John,Boknecht,1607,1976-07-12,2001-05-29,jboknecht@stacywitbeck.com,503-805-9848,206-795-2824,,Portland,employee_workPhone
+29409,Andrew,Auxier,1618,1981-10-08,2004-06-28,aauxier@stacywitbeck.com,,503-710-7910,,Lynnwood,employee_workPhone
+29413,James,Prior,1641,1967-03-01,2002-04-01,jprior@stacywitbeck.com,,408-595-8638,,Alameda,employee_workPhone
+29414,Michael,Alexander,1655,1979-01-19,2002-07-01,malexander@stacywitbeck.com,,206-678-6766,,Portland,employee_workPhone
+29416,Ken,Nicholson,1663,1980-06-03,2004-01-05,knicholson@stacywitbeck.com,510-390-0129,510-846-2379,,Panorama City,employee_workPhone
+29421,Keith,Tarkalson,1680,1976-05-12,2017-07-24,ktarkalson@stacywitbeck.com,801-648-7593,801-301-2092,,Las Vegas,employee_workPhone
+29425,Michael,Sander,1686,1982-08-24,2005-07-01,msander@stacywitbeck.com,,801-309-8872,,Alameda,employee_workPhone
+29426,Brian,Dagsland,1693,1985-05-01,2004-06-14,bdagsland@stacywitbeck.com,,801-807-9984,,Salt Lake City,employee_workPhone
+29430,Nicholas,Partridge,1758,1979-05-01,1997-06-30,npartridge@stacywitbeck.com,503-318-1702,503-849-9569,,Portland,employee_workPhone
+29435,Mark,Bodyfelt,1784,1965-11-28,2005-09-12,mbodyfelt@stacywitbeck.com,,503-710-8369,,Portland,employee_workPhone
+29436,Kathlyn,Nance,1790,1973-04-06,2006-01-23,knance@stacywitbeck.com,415-721-7737,510-772-8079,,Alameda,employee_workPhone
+29437,Eric,Meisgeier,1792,1971-01-23,2006-02-20,emeisgeier@stacywitbeck.com,,503-710-0665,,Panorama City,employee_workPhone
+29443,Blaine,Thomas,1860,1959-08-06,2006-06-21,bthomas@stacywitbeck.com,,801-807-8015,,Salt Lake City,employee_workPhone
+29444,Charles,Hauser Jr.,1884,1962-02-13,2006-06-26,chauser@stacywitbeck.com,360-607-2970,801-390-5031,,Portland,employee_workPhone
+29447,Brent,Allison,1890,1973-05-07,2006-07-17,ballison@stacywitbeck.com,,971-212-1300,,Portland,employee_workPhone
+29453,Christopher,Orueta,1981,1978-08-11,2007-01-02,corueta@stacywitbeck.com,,206-595-4335,,Washougal,employee_workPhone
+29455,Zebadiah,Hutchison,2005,1980-11-09,2007-04-23,zhutchison@stacywitbeck.com,,206-473-0587,,El Cajon,employee_workPhone
+29457,Karen,Jealous,2018,1968-06-21,2007-03-28,kjealous@stacywitbeck.com,503-387-3349,503-830-8454,,Portland,employee_workPhone
+29458,Randy,Olmstead,2084,1983-07-31,2007-04-23,rolmstead@stacywitbeck.com,,801-301-3102,,Van Nuys,employee_workPhone
+29463,Richard,Merina,2117,1984-01-06,2007-06-18,rmerina@stacywitbeck.com,,503-209-4173,,Panorama City,employee_workPhone
+29464,Joshua,LaFleur,2124,1981-06-13,2007-07-16,jlafleur@modrailsystems.com,,801-301-3340,,Salt Lake City,employee_workPhone
+29469,Terrance,Martin,2189,1957-04-01,2007-11-30,tmartin@stacywitbeck.com,,510-290-7351,,Salt Lake City,employee_workPhone
+29470,Cory,Sargent,2191,1978-05-26,2007-12-24,csargent@stacywitbeck.com,,801-807-9465,,Salt Lake City,employee_workPhone
+29472,Kenneth,Waters,2193,1984-05-14,2008-04-21,kwaters@stacywitbeck.com,,971-888-1128,,Baltimore,employee_workPhone
+29473,Ryan,Richards,2194,1983-09-16,2008-04-22,rrichards@stacywitbeck.com,,303-475-4798,,El Cajon,employee_workPhone
+29474,Amber,Linger,2195,1989-03-30,2008-05-01,alinger@stacywitbeck.com,,801-682-2498,,Salt Lake City,employee_workPhone
+29477,Christian,Williams,2240,1984-04-26,2020-01-06,cwilliams@stacywitbeck.com,,206-471-0127,,Lynnwood,employee_workPhone
+29483,Stacey,Sander,2256,1982-06-14,2009-01-05,ssander@stacywitbeck.com,,503-998-8933,,Alameda,employee_workPhone
+29485,Jennifer,DeLong,2259,1974-01-08,2018-05-21,jdelong@stacywitbeck.com,,385-226-4179,,Portland,employee_workPhone
+29486,James,Abramson,2261,1964-04-13,2009-03-26,jabramson@stacywitbeck.com,,503-209-5478,,Portland,employee_workPhone
+29488,Jesse,Williams,2265,1984-12-25,2023-01-09,jwilliams@stacywitbeck.com,,301-399-0657,,Alexandria,employee_workPhone
+29493,Michael,McKenzie,2273,1977-05-22,2026-01-05,mmckenzie@stacywitbeck.com,,720-376-1071,,Salt Lake City,employee_workPhone
+29496,Bernard,Miller,2277,1986-08-28,2015-06-15,bmiller@stacywitbeck.com,,720-660-7103,,Littleton,employee_workPhone
+29499,Michael,Moran,2280,1987-02-22,2009-07-13,mmoran@stacywitbeck.com,,801-390-0824,,Salt Lake City,employee_workPhone
+29501,Joel,Smith,2283,1977-10-27,2009-08-31,jsmith@stacywitbeck.com,,206-588-9065,,Salt Lake City,employee_workPhone
+29506,Sean,Furey,2290,1972-06-09,2005-06-27,sfurey@stacywitbeck.com,,512-534-7831,,Dallas,employee_workPhone
+29605,Michael,Cunningham,314,1973-02-11,2010-04-26,mcunningham@stacywitbeck.com,,206-535-9255,,Dallas,employee_workPhone
+29655,Jason,Gookins,456,1976-09-21,2018-02-05,jgookins@stacywitbeck.com,971-344-8674,503-969-7339,,Long Beach,employee_workPhone
+29925,Robert,"Peacock, Jr.",1630,1977-10-15,2011-04-25,bpeacock@stacywitbeck.com,,801-309-3704,,DuPont,employee_workPhone
+30370,Robert,Hintz,829,1962-03-26,1993-12-15,bhintz@stacywitbeck.com,,916-826-8588,,Sacramento,employee_workPhone
+30371,Alvaro,Marquez,1430,1973-08-22,2003-10-02,amarquez@stacywitbeck.com,,408-590-4934,,Alameda,employee_workPhone
+30372,Erica,Orozco,1550,1975-06-07,1997-11-03,eorozco@stacywitbeck.com,,650-284-6243,,Alameda,employee_workPhone
+30373,Jamie,Soto,1585,1979-12-27,2000-10-02,jsoto@stacywitbeck.com,,415-815-0139,,Alameda,employee_workPhone
+30375,Armando,Tiscareno,1678,1970-08-27,2003-04-09,atiscareno@stacywitbeck.com,,408-210-5750,,Austin,employee_workPhone
+30378,Brendaethel,Santillan,1826,1973-09-18,2004-09-20,bsantillan@stacywitbeck.com,,503-572-7060,,Portland,employee_workPhone
+30379,Gavino,Rodriguez,1863,1972-11-20,2015-05-18,grodriguez@stacywitbeck.com,503-908-1565,503-577-9716,,Lynnwood,employee_workPhone
+30384,Emanuel,Alvarez,2114,1983-09-19,2008-06-23,ealvarez@stacywitbeck.com,,206-550-4586,,Lynnwood,employee_workPhone
+30386,Karina,Herrera,2198,1982-04-11,2008-05-19,kherrera@stacywitbeck.com,,206-550-3370,,Lynnwood,employee_workPhone
+30389,Desirae,Faber,2282,1986-05-15,2017-08-28,rfaber@modrailsystems.com,,775-980-5313,,Littleton,employee_workPhone
+31069,Scott,Shaw,1918SW,1964-09-21,2009-12-11,sshaw@stacywitbeck.com,503-780-6818,503-710-7535,,Portland,employee_workPhone
+31276,Sylvia,Yean,2284,1983-01-24,2009-09-21,syean@stacywitbeck.com,,408-464-6552,,Alameda,employee_workPhone
+31334,Jacob,DeVilliers,2939,1982-03-23,2015-09-21,jdevilliers@stacywitbeck.com,,503-752-3261,,Lynnwood,employee_workPhone
+31675,Ryan,Aagard,4032SW,1973-03-14,2008-09-12,raagard@stacywitbeck.com,,801-807-8118,,Salt Lake City,employee_workPhone
+31684,Ronald,Ball,7106,1973-02-17,2014-06-23,rball@stacywitbeck.com,,801-414-3754,,Salt Lake City,employee_workPhone
+31694,Kent,Clark,348SW,1963-04-03,2024-03-22,lclark@stacywitbeck.com,,801-557-8947,,Salt Lake City,employee_workPhone
+31701,Collin,Christensen,2358,1982-11-09,2011-11-28,cchristensen@stacywitbeck.com,,801-420-1708,,Salt Lake City,employee_workPhone
+31742,Clark,Rowberry,5522SW,1966-05-11,2024-08-20,,801-377-3802,801-787-2935,,Salt Lake City,employee_workPhone
+31746,Jason,Smith,8710SW,1966-06-13,2014-04-07,,,435-764-2367,,Salt Lake City,employee_workPhone
+31755,Shawn,Sheets,1936,1967-07-04,2012-02-14,ssheets@stacywitbeck.com,801-774-6994,801-807-8589,,Salt Lake City,employee_workPhone
+31966,Luis,Moreno-Diaz,4132SW,1981-02-07,2019-04-01,lmoreno@stacywitbeck.com,,801-824-8532,,Salt Lake City,employee_workPhone
+31968,Delfino,Perez,1878SW,1974-08-03,2021-03-23,dperez@stacywitbeck.com,,801-652-0823,,Salt Lake City,employee_workPhone
+31976,Octavio,Zavala Acevedo,2563SW,1965-06-04,2020-07-20,ozavala@stacywitbeck.com,,801-403-9546,,Salt Lake City,employee_workPhone
+31980,Arturo,Guillen-Zavala,4258SW,1979-09-16,2025-04-15,,,801-661-1851,,Salt Lake City,employee_workPhone
+32081,Ty,Browning,7109,1989-11-13,2019-09-03,tbrowning@stacywitbeck.com,,801-372-8412,,Salt Lake City,employee_workPhone
+32085,Blair,Christensen,7207,1967-05-30,2006-07-05,bchristensen@stacywitbeck.com,,801-807-8939,,Lynnwood,employee_workPhone
+32094,Matthew,Foust,7605,1985-05-31,2012-06-15,mfoust@stacywitbeck.com,,801-807-8740,,Salt Lake City,employee_workPhone
+32100,Kyle,Kostenborder,4027,1986-05-02,2016-11-28,kkostenborder@stacywitbeck.com,,313-378-8137,,Salt Lake City,employee_workPhone
+32120,Shawn,Van Order,9590SW,1981-01-06,2015-10-26,svanorder@stacywitbeck.com,503-939-8156,801-807-9858,,Portland,employee_workPhone
+35115,Octavio,Bailon-Schubert,2294,1985-06-13,2009-11-16,obschubert@stacywitbeck.com,,503-820-1229,,Lynnwood,employee_workPhone
+35207,Dyena,Penning,2297,1971-08-21,2009-12-14,dpenning@stacywitbeck.com,,503-481-0471,,Portland,employee_workPhone
+35428,Courtney,Beesley,2299,1980-02-13,2010-01-04,cbeesley@stacywitbeck.com,,801-953-9760,,Salt Lake City,employee_workPhone
+36006,David,Morgan,2940SW,1976-07-08,2020-02-18,dmorgan@stacywitbeck.com,,971-409-4948,,Portland,employee_workPhone
+36009,Erik,Slomp,1906SW,1974-02-07,2025-03-27,eslomp@stacywitbeck.com,,503-332-6882,,Portland,employee_workPhone
+39852,Salvador,Rangel,9593SW,1967-08-06,2018-04-04,srangel@stacywitbeck.com,,801-941-4527,,Salt Lake City,employee_workPhone
+39873,Emilio,Fuentes-Vasquez,5549SW,1972-05-03,2025-01-07,,,801-979-5477,,Salt Lake City,employee_workPhone
+40129,Matthew,Darnell,2396,1986-01-03,2010-04-12,mdarnell@stacywitbeck.com,,510-301-6047,,Salt Lake City,employee_workPhone
+40373,David,Kennedy,2313,1985-02-26,2010-09-13,dkennedy@stacywitbeck.com,,801-390-7341,,Irving,employee_workPhone
+40428,Jared,Talbot,2314,1980-10-28,2019-03-13,jtalbot@stacywitbeck.com,402-830-5350,,,Las Vegas,employee_workPhone
+40518,Gilberto,Perez,4446SW,1977-08-25,2024-03-05,,,385-549-2433,,Salt Lake City,employee_workPhone
+40927,Ryan,Edwards,2196,1988-05-27,2025-07-21,redwards@stacywitbeck.com,,360-998-0274,,Van Nuys,employee_workPhone
+40930,Robert,Thorpe,2269,1989-10-06,2012-06-18,rthorpe@stacywitbeck.com,,206-550-2480,,Van Nuys,employee_workPhone
+40955,Thomas,Opland,2274,1983-10-25,2010-05-24,topland@modrailsystems.com,,206-595-4778,,Seattle,employee_workPhone
+40999,Brian,Nelson,2318,1983-08-05,2010-05-28,bnelson@stacywitbeck.com,,801-882-9096,,Salt Lake City,employee_workPhone
+41096,Billy,Johns,2317,1965-07-21,2010-05-28,bjohns@stacywitbeck.com,,510-775-3370,,Dallas,employee_workPhone
+41291,Abel,Rodriguez,1803,1971-08-27,2017-09-05,arodriguez@stacywitbeck.com,,480-209-2669,,Tempe,employee_workPhone
+41294,Megan,Irvin,2324,1988-09-26,2010-06-21,mirvin@stacywitbeck.com,253-740-3140,801-807-9067,,Kent,employee_workPhone
+41377,Jedidiah,Laub,8103SW,1986-04-02,2015-03-20,jlaub@stacywitbeck.com,,801-726-8538,,Salt Lake City,employee_workPhone
+41403,Rick,Bowles,2329,1978-07-31,2010-11-29,rbowles@stacywitbeck.com,,720-431-3089,,Salt Lake City,employee_workPhone
+41473,Steven,LeFebre,8204,1976-09-05,2017-09-25,slefebre@stacywitbeck.com,,480-299-0299,,Baltimore,employee_workPhone
+41495,Jacob,Lemieux,2346,1989-11-26,2015-06-23,jlemieux@modrailsystems.com,503-686-0459,720-668-0279,,Austin,employee_workPhone
+41551,Maurice,Picheloup,2353,1986-12-23,2012-05-21,mpicheloup@stacywitbeck.com,,503-298-9577,,Austin,employee_workPhone
+41559,Jason,Noxon,8301SW,1980-03-04,2015-10-28,jnoxon@stacywitbeck.com,971-717-1158,253-278-3921,,DuPont,employee_workPhone
+41573,Nicholas,Slama,2356,1980-03-24,2011-10-31,nslama@stacywitbeck.com,,510-393-2520,,Petaluma,employee_workPhone
+41577,Paul,Rieger,2370,1964-07-08,2016-07-11,prieger@modrailsystems.com,,720-272-7875,,Littleton,employee_workPhone
+41583,Lorene,O'Donnell,2369,1970-05-18,2009-04-20,lodonnell@modrailsystems.com,,720-545-7783,,Littleton,employee_workPhone
+41585,Beatrice,Rieger,2367,1970-08-22,2008-11-03,brieger@modrailsystems.com,,505-660-5100,,Littleton,employee_workPhone
+41586,Daniel,Meservey,2368,1964-11-14,2006-07-31,dmeservey@modrailsystems.com,,720-219-8322,,Littleton,employee_workPhone
+41590,Shon,Tulik,2371,1973-07-16,2011-12-12,stulik@modrailsystems.com,,720-951-3590,,Canada,employee_workPhone
+41598,Joshua,Grimm,2372,1990-04-19,2012-01-16,jgrimm@stacywitbeck.com,,832-418-1437,,El Cajon,employee_workPhone
+41617,Robert,Hammond,2375,1974-11-19,2012-04-23,rhammond@modrailsystems.com,,435-849-5947,,Salt Lake City,employee_workPhone
+41623,Nabor,Saenzpardo,5090SW,1974-10-25,2024-09-17,nsaenzpardo@stacywitbeck.com,,720-545-5446,,Long Beach,employee_workPhone
+41639,Brian,Alcala,103MCTC,1989-11-12,2025-09-02,balcala@stacywitbeck.com,,707-843-6616,,San Diego,employee_workPhone
+41642,Jeffrey,Berriatua,2379,1984-09-06,2012-05-29,jberriatua@stacywitbeck.com,,510-861-2384,,Alameda,employee_workPhone
+41649,Sam,Stone,2381,1989-11-08,2012-06-04,sstone@stacywitbeck.com,,503-421-3381,,Portland,employee_workPhone
+41756,Kevin,Irvin,7851,1992-11-16,2012-08-13,kirvin@stacywitbeck.com,,,,DuPont,employee_workPhone
+41765,Justyn,Taggart,8805,1975-02-25,2019-09-30,jtaggart@stacywitbeck.com,,360-772-1064,,Portland,employee_workPhone
+41805,Jacob,Wichman,2399,1986-08-07,2025-05-27,jwichman@stacywitbeck.com,406-799-5855,503-757-0547,,Salt Lake City,employee_workPhone
+41819,Zachary,Aeschleman,2405,1987-05-02,2012-12-10,zaeschleman@stacywitbeck.com,,915-412-3193,,Tempe,employee_workPhone
+41842,Jeffrey,Koval,2410,1959-02-25,2013-02-04,jkoval@modrailsystems.com,816-600-2514,816-456-1101,,Littleton,employee_workPhone
+41844,Ashley,Pakech,2411,1984-03-27,2013-02-11,apakech@modrailsystems.com,,303-748-1969,,Littleton,employee_workPhone
+41852,Antonio,Ojeda,241565SKH,1964-05-14,2023-07-05,aojeda@swkjv.com,,360-367-6720,,Lynnwood,employee_workPhone
+41900,Tyson,Cook,4042SW,1983-02-28,2024-02-08,tcook@swkjv.com,,253-230-5691,,DuPont,employee_workPhone
+41991,Dean,Rieger,2463,1992-11-06,2020-06-29,drieger@modrailsystems.com,,720-982-8725,,Littleton,employee_workPhone
+41993,Jacob,Locke,4107,1982-08-30,2017-11-06,jlocke@stacywitbeck.com,,253-331-8459,,Lynnwood,employee_workPhone
+42013,Jason,Owen,4124SW,1972-11-12,2025-03-03,,,206-397-2054,,Lynnwood,employee_workPhone
+42036,Rory,Randall,4140SW,1984-11-25,2025-03-17,rrandall@stacywitbeck.com,,253-332-5735,,Lynnwood,employee_workPhone
+42045,Linda,Nguyen,2465,1977-09-21,2013-08-05,lnguyen@stacywitbeck.com,,408-605-3658,,Alameda,employee_workPhone
+42065,Michael,Linger,2976,1987-07-30,2019-11-11,mlinger@stacywitbeck.com,,801-668-7220,,Salt Lake City,employee_workPhone
+42091,Frank,Parks,251633SWK,1976-03-28,2025-09-15,fparks@stacywitbeck.com,,425-309-1459,,Lynnwood,employee_workPhone
+42092,Matthew,Oaks,2786,1972-01-03,2017-10-09,moaks@stacywitbeck.com,,740-538-1692,,Dallas,employee_workPhone
+42116,Kurt,Kniffin,2470,1962-03-16,2013-10-14,kkniffin@stacywitbeck.com,831-688-8232,831-915-6000,,Alameda,employee_workPhone
+42129,Scott,Grott,2473,1964-10-13,2020-03-02,sgrott@modrailsystems.com,636-273-9205,636-236-1576,,Littleton,employee_workPhone
+42130,Kyle,Curtis,2472,1963-04-09,2013-10-21,kcurtis@modrailsystems.com,,720-541-3864,,Salt Lake City,employee_workPhone
+42169,Salvador,Lopez,2483,1983-09-18,2014-03-03,slopez@modrailsystems.com,,773-704-2936,,Florida,employee_workPhone
+42183,Joel,Corrales-Silva,4924SW,1973-01-03,2025-11-17,jcorralessilva@stacywitbeck.com,,707-318-9263,,Sacramento,employee_workPhone
+42184,Donald,Feht,3065,1963-08-12,2023-11-28,dfeht@stacywitbeck.com,707-849-9138,707-866-1398,,Van Nuys,employee_workPhone
+42188,Jennifer,Donaldson,2487,1978-09-08,2014-03-24,jdonaldson@stacywitbeck.com,,321-292-0113,,Salt Lake City,employee_workPhone
+42207,Nicole,Memmott,2488,1981-04-03,2014-07-21,nmemmott@stacywitbeck.com,,801-915-1947,,Salt Lake City,employee_workPhone
+42210,Kylie,Bellar,4431SW,1991-11-07,2020-01-23,kbellar@stacywitbeck.com,,503-730-5289,,Portland,employee_workPhone
+42263,Kyle,Aagard,4272SW,1995-05-09,2021-03-23,,,435-681-0210,,Salt Lake City,employee_workPhone
+42280,Brian,Sena,2494,1974-11-12,2014-05-30,bsena@stacywitbeck.com,,650-483-4745,,Alameda,employee_workPhone
+42321,Jared,Bundy,2498,1986-12-16,2014-07-07,jbundy@stacywitbeck.com,602-625-3041,619-929-5391,,Las Vegas,employee_workPhone
+42325,Jaimee,Sodosky,2574,1960-10-24,2014-07-21,jsodosky@modrailsystems.com,,303-503-1844,,Littleton,employee_workPhone
+42331,Anthony,Silvestri,2575,1991-11-14,2017-10-23,asilvestri@stacywitbeck.com,,510-871-1694,,Alameda,employee_workPhone
+42345,Zakiya,Usinosantiago,2577,1980-10-01,2014-08-18,zusinosantiago@stacywitbeck.com,,510-766-6291,,Salt Lake City,employee_workPhone
+42347,Neil,Ogimachi,2576,1977-12-21,2014-08-11,nogimachi@stacywitbeck.com,,510-709-9634,,Alameda,employee_workPhone
+42351,Georgette,Lujan,2578,1973-01-12,2014-08-18,glujan@modrailsystems.com,,303-856-8559,,Littleton,employee_workPhone
+42403,Harvey,Higley,4372SW,1967-10-07,2022-08-01,thigley@stacywitbeck.com,,510-410-4118,,Long Beach,employee_workPhone
+42425,Scott,Lewis,2582,1981-05-19,2014-11-24,slewis@stacywitbeck.com,,313-815-5483,,Salt Lake City,employee_workPhone
+42431,Nathan,Smith,2585,1986-09-29,2015-01-05,rsmith@modrailsystems.com,,385-290-7595,,Littleton,employee_workPhone
+42434,Anthony,Ortolani,2587,1981-09-14,2015-01-12,aortolani@modrailsystems.com,,720-215-0048,,Salt Lake City,employee_workPhone
+42435,Ryan,Clark,2586,1978-02-28,2015-01-12,rclark@stacywitbeck.com,,480-271-4117,,Tempe,employee_workPhone
+42439,Leandro,Escarcega,4429,1983-03-25,2025-11-17,lescarcega@stacywitbeck.com,,530-204-3986,,Omaha,employee_workPhone
+42443,Brendan,Coburn,2588,1986-04-15,2015-01-26,bcoburn@stacywitbeck.com,,503-702-6748,,Panorama City,employee_workPhone
+42450,Jesse,Knaak,2592,1977-07-01,2015-02-09,jknaak@modrailsystems.com,815-245-9535,312-802-1942,,Seattle,employee_workPhone
+42453,Jeffrey,Peritore,2598,1982-12-28,2015-04-13,jperitore@stacywitbeck.com,,206-972-2836,,Lynnwood,employee_workPhone
+42474,Desmond,Washington,2596,1994-05-29,2018-01-03,dwashington@stacywitbeck.com,,,,Dallas,employee_workPhone
+42484,Michael,Pifer,2697,1965-06-30,2017-03-06,mpifer@modrailsystems.com,,336-687-0890,,Charlotte,employee_workPhone
+42524,Matthew,Johnson,2606,1978-11-25,2015-05-18,mjohnson@stacywitbeck.com,,503-502-2818,,Alameda,employee_workPhone
+42525,Taha,Kabbaj,2607,1990-04-28,2015-05-18,tkabbaj@stacywitbeck.com,,253-651-5328,,Dallas,employee_workPhone
+42535,Daniel,Elshire,2615,1965-10-23,2015-05-29,delshire@stacywitbeck.com,,510-708-8824,,Alameda,employee_workPhone
+42538,Austin,Garrod,2617,1995-06-02,2017-07-05,agarrod@modrailsystems.com,,206-773-7391,,Lynnwood,employee_workPhone
+42564,Braden,Bond,2620,1987-06-09,2015-08-24,bbond@modrailsystems.com,801-824-7077,801-652-2297,,Salt Lake City,employee_workPhone
+42615,William,Astleford,5098SW,1984-05-03,2024-09-30,wastleford@stacywitbeck.com,,760-580-6190,,Long Beach,employee_workPhone
+42616,Isidro,Miranda,5092SW,1969-05-15,2025-06-30,imiranda@stacywitbeck.com,,510-871-7112,,Long Beach,employee_workPhone
+42622,Nader,Hassoun,2651,1965-10-08,2015-11-16,nhassoun@stacywitbeck.com,707-364-0443,415-301-1325,,Petaluma,employee_workPhone
+42628,Ahmed,AlJafar,2650,1989-02-11,2016-09-01,aaljafar@stacywitbeck.com,,510-871-7297,,Alexandria,employee_workPhone
+42684,Andrew,tenHarmsel,2654,1980-09-22,2016-01-18,atenharmsel@modrailsystems.com,,312-342-2982,,Littleton,employee_workPhone
+42707,Cecilia,Campbell,2656,1998-12-15,2018-11-30,ccampbell@stacywitbeck.com,206-445-8156,,,Lynnwood,employee_workPhone
+42731,Omar,Vivanco Leon,5089SW,1990-02-07,2025-10-07,,,619-653-7787,,Long Beach,employee_workPhone
+42744,Jackson,Mitz,2657,1990-07-15,2016-04-29,jmitz@modrailsystems.com,,630-484-3589,,Charlotte,employee_workPhone
+42745,Mayra,Almazan,2658,1993-03-08,2017-03-21,malmazan@stacywitbeck.com,,602-290-9837,,Tempe,employee_workPhone
+42746,Luis,Vazquez-Padilla,4594SW,1987-08-31,2024-03-11,lvazquez@stacywitbeck.com,,916-667-4331,,Sacramento,employee_workPhone
+42762,Shawn,Patrick,2659,1976-10-03,2017-05-30,spatrick@modrailsystems.com,,970-590-7853,,Littleton,employee_workPhone
+42769,Trevor,Mitchem,2663,1993-09-29,2017-07-10,tmitchem@stacywitbeck.com,,206-773-7056,,Washougal,employee_workPhone
+42776,Alberto,Yanez-Cardenas,4532SW,1987-06-08,2024-03-18,ayanez@stacywitbeck.com,,360-500-5225,,Dallas,employee_workPhone
+42782,Dwight,Wongsang,2665,1982-12-29,2016-05-31,dwongsang@modrailsystems.com,,801-448-3297,,Dallas,employee_workPhone
+42789,Marcus,Olmstead,2668,1986-02-12,2016-06-13,molmstead@stacywitbeck.com,,801-644-0520,,Dallas,employee_workPhone
+42791,Nhon,Pham,2670,1993-06-28,2016-06-13,npham@stacywitbeck.com,,206-450-2303,,Lynnwood,employee_workPhone
+42798,Brandon,McClurg,4534SW,1977-08-22,2025-03-17,bmcclurg@stacywitbeck.com,,951-956-4767,,Kent,employee_workPhone
+42812,Robert,Ellison,2672,1988-02-25,2016-06-27,rellison@modrailsystems.com,,303-548-9765,,Littleton,employee_workPhone
+42848,DonCarle,Carlson,2696,1969-10-22,2017-03-06,dcarlson@modrailsystems.com,,847-988-8179,,Austin,employee_workPhone
+42870,Patrick,Russell,4567SW,1997-04-18,2023-10-04,prussell@stacywitbeck.com,,360-949-5340,,Portland,employee_workPhone
+42876,Richard,Buchanan,2678,1984-10-01,2016-09-06,rbuchanan@modrailsystems.com,,616-299-3604,,Littleton,employee_workPhone
+42898,Swade,Hill,5436SW,1986-02-01,2024-10-28,,,702-292-0279,,Dallas,employee_workPhone
+42903,Shannon,Anderson,2684,1976-01-26,2016-10-24,sanderson@stacywitbeck.com,253-318-1847,253-278-3869,,Portland,employee_workPhone
+42941,Justin,Snell,3027,1989-03-16,2019-08-26,jsnell@modrailsystems.com,254-485-9139,2544859139,,Austin,employee_workPhone
+42946,Colby,Phillips,2686,1979-06-06,2016-10-31,cphillips@modrailsystems.com,,530-510-2337,,Healdsburg,employee_workPhone
+42981,Megan,Nguyen,2689,1998-06-04,2024-08-26,mnguyen@stacywitbeck.com,,510-213-0408,,Alameda,employee_workPhone
+43004,Ryan,Alvarado,5434SW,1987-02-11,2025-06-30,ralvarado@stacywitbeck.com,,760-670-5208,,El Cajon,employee_workPhone
+43043,David,Skarbek,2693,1977-07-07,2017-02-21,dskarbek@stacywitbeck.com,,480-322-1235,,Las Vegas,employee_workPhone
+43045,Travis,Roettjer,2695,1977-01-22,2017-03-06,troettjer@stacywitbeck.com,,206-931-4998,,Lynnwood,employee_workPhone
+43098,Isaac,Brandon,2698,1968-01-28,2017-03-27,ibrandon@modrailsystems.com,,602-290-0478,,Panorama City,employee_workPhone
+43126,Craig,Wilson,2699,1984-08-24,2017-04-17,cwilson@modrailsystems.com,,303-906-8864,,Littleton,employee_workPhone
+43146,Beth,Bombalicky,2702,1979-03-20,2013-04-01,bbombalicky@modrailsystems.com,,303-587-7672,,Littleton,employee_workPhone
+43150,Ross,McDougall,2720,1989-04-10,2015-09-03,rmcdougall@modrailsystems.com,,985-237-5964,,New Orleans,employee_workPhone
+43158,Douglas,Brown,2703,1980-07-07,2015-10-12,dbrown@modrailsystems.com,,504-813-6218,,New Orleans,employee_workPhone
+43164,Joseph,Shuey,2729,1992-08-17,2015-10-27,jshuey@modrailsystems.com,,504-339-4163,,New Orleans,employee_workPhone
+43165,Gregory,Rome,2728,1969-02-26,2010-03-01,grome@modrailsystems.com,985-246-9578,985-246-9578,,New Orleans,employee_workPhone
+43167,Evelyn,Torres,2721,1980-11-12,2015-10-01,etorres@modrailsystems.com,,714-673-1921,,Littleton,employee_workPhone
+43168,Ben,Martinez III,2718,1971-05-08,2019-02-04,bmartinez@modrailsystems.com,,720-394-0601,,Littleton,employee_workPhone
+43173,Robert,Garrison,2712,1960-04-13,2015-02-16,bgarrison@modrailsystems.com,,480-431-3348,,Littleton,employee_workPhone
+43174,Christopher,Duggan,2711,1978-11-20,2016-05-09,cduggan@modrailsystems.com,,504-638-4965,,New Orleans,employee_workPhone
+43177,Brian,Coll,2709,1974-12-03,2016-07-16,bcoll@modrailsystems.com,303-921-0732,303-921-0732,,Littleton,employee_workPhone
+43178,Brett,Carlile,2708,1976-02-05,2016-02-01,bcarlile@modrailsystems.com,303-886-1218,303-386-6056,,Littleton,employee_workPhone
+43180,Michael,Cara-Donna,2707,1966-05-30,2013-02-18,mcaradonna@modrailsystems.com,,781-771-1077,,Massachusetts,employee_workPhone
+43218,Jeremiah,Warner,5624SW,1976-10-28,2025-07-13,jwarner@mctcjv.com,,619-381-5828,,El Cajon,employee_workPhone
+43230,Lucas,Robinson,2750,1994-12-21,2018-01-22,lrobinson@modrailsystems.com,,816-556-6586,,Van Nuys,employee_workPhone
+43235,Anthony,Wedemeyer,2748,1960-05-24,2017-05-30,twedemeyer@modrailsystems.com,,303-591-5521,,Littleton,employee_workPhone
+43245,Charles,Hauser,2752,1995-09-27,2019-09-23,chauser@modrailsystems.com,,801-699-1801,,Redmond,employee_workPhone
+43287,Michael,Goodman,2761,1956-04-18,2017-06-26,mgoodman@modrailsystems.com,,303-827-9842,,Littleton,employee_workPhone
+43288,Adrienne,Taylor,2768,1994-12-08,2017-06-26,ataylor@stacywitbeck.com,,913-484-3642,,Salt Lake City,employee_workPhone
+43320,Cheranda,Walter,2771,1993-09-04,2017-07-10,cwalter@stacywitbeck.com,,,,Tempe,employee_workPhone
+43332,Samuel,Aven,5288,1983-04-16,2025-07-02,saven@stacywitbeck.com,858-602-6459,619-787-0247,,El Cajon,employee_workPhone
+43342,Bryan,Charles,5435SW,1991-04-17,2025-07-13,,,858-648-0962,,El Cajon,employee_workPhone
+43368,Douglas,Jones,2775,1977-02-09,2017-08-01,djones@modrailsystems.com,,385-505-0301,,Salt Lake City,employee_workPhone
+43407,Kevin,McClintock,4743,1979-05-13,2018-11-30,kmcclintock@stacywitbeck.com,,503-360-5006,,Dallas,employee_workPhone
+43507,Patrick,Lindhartsen,3022,1970-05-03,2019-08-12,plindhartsen@stacywitbeck.com,425-244-4819,425-931-1335,,Lynnwood,employee_workPhone
+43546,Richard,Gilmartin,2791,1965-02-15,2017-10-30,rgilmartin@modrailsystems.com,303-954-9682,781-413-1644,,Littleton,employee_workPhone
+43573,Joseph,Foster,2797,1972-11-21,2017-11-27,jfoster@stacywitbeck.com,573-694-8884,737-218-9675,,Austin,employee_workPhone
+43590,Jose,Brito,5296SW,1991-05-30,2023-05-09,jbrito@stacywitbeck.com,,714-910-1410,,Salt Lake City,employee_workPhone
+43608,Omar,Molina-Alcantar,4786SW,1981-12-06,2025-05-05,omolina@stacywitbeck.com,,253-307-6645,,Lynnwood,employee_workPhone
+43613,Ashley,Witherspoon,2801,1987-10-29,2017-12-27,awitherspoon@modrailsystems.com,,720-215-6667,,Littleton,employee_workPhone
+43616,Onur,Olmez,2802,1992-07-01,2017-12-29,oolmez@stacywitbeck.com,,510-292-0859,,Alameda,employee_workPhone
+43620,Brandon,Wise,2803,1984-01-12,2018-01-02,bwise@modrailsystems.com,,720-737-4091,,Littleton,employee_workPhone
+43682,Albert,Araiza,2809,1976-08-13,2018-02-13,aaraiza@stacywitbeck.com,602-303-3095,480-243-1129,,Tempe,employee_workPhone
+43703,Nickolas,Thompson,4631SW,1978-05-20,2025-04-21,nthompson@stacywitbeck.com,,218-556-9653,,Kent,employee_workPhone
+43719,Nathan,Parsons,4929SW,1972-11-29,2025-11-17,nparsons@stacywitbeck.com,,707-694-6918,,Sacramento,employee_workPhone
+43749,Kenneth,Randall,4642SW,1983-06-08,2025-03-17,krandall@stacywitbeck.com,,206-462-0720,,Kent,employee_workPhone
+43781,Alejandro,Garcia Solorzano,4657SW,1975-09-22,2025-11-26,,,602-475-3783,,Tempe,employee_workPhone
+43784,Ryan,Hart,2817,1978-02-03,2018-04-09,rhart@stacywitbeck.com,,425-583-2576,,Panorama City,employee_workPhone
+43847,Jay,Nguyen,2823,1996-07-27,2019-05-20,jnguyen@stacywitbeck.com,,602-410-7233,,Long Beach,employee_workPhone
+43859,Jose,Vazquez-Padilla,4930SW,1991-09-11,2024-01-12,jvazquez@stacywitbeck.com,,916-745-5407,,Sacramento,employee_workPhone
+43879,Roger,French,2829,1988-08-08,2018-05-29,rfrench@modrailsystems.com,,904-571-2163,,Littleton,employee_workPhone
+43889,Sahil,Sharma,2827,1990-05-30,2018-05-21,ssharma@stacywitbeck.com,,619-252-1399,,Long Beach,employee_workPhone
+43903,Travis,Baxter,2832,1972-09-13,2018-05-30,tbaxter@modrailsystems.com,,801-669-6211,,Salt Lake City,employee_workPhone
+43914,Garrett,Gallinger,2835,1994-11-03,2019-03-04,ggallinger@stacywitbeck.com,,206-573-1686,,Lynnwood,employee_workPhone
+43956,Ryan,McCracken,2844,1992-07-10,2018-06-25,rmccracken@modrailsystems.com,,845-234-1873,,Littleton,employee_workPhone
+43977,Thorleif,Watsjold,2846,1993-06-10,2019-07-15,twatsjold@stacywitbeck.com,907-720-3595,415-302-2820,,Carlsbad,employee_workPhone
+43979,Jarrad,Pimentel,241651SKH,1987-12-17,2024-09-13,jpimentel@stacywitbeck.com,,360-722-1586,,Lynnwood,employee_workPhone
+43983,Gurdeep,Pabla,2847,1994-08-05,2018-07-09,gpabla@stacywitbeck.com,,408-460-1321,,Alameda,employee_workPhone
+43997,Johnny,Atencio,27101VTP,1992-05-01,2025-05-05,,,310-488-2294,,Van Nuys,employee_workPhone
+44019,Michael,Haverstick,2849,1969-02-25,2018-07-30,mhaverstick@modrailsystems.com,970-823-2181,303-960-0844,,Littleton,employee_workPhone
+44052,Brian,Hazell,4713,1986-12-02,2024-10-03,bhazell@stacywitbeck.com,,253-350-0156,,Dallas,employee_workPhone
+44063,Ryan,McClure,4722SW,1981-05-08,2020-11-19,,,206-660-7867,,DuPont,employee_workPhone
+44153,Jeremy,Tootle,5679SW,1976-08-23,2018-09-17,jtootle@modrailsystems.com,,228-547-5128,,Chicago,employee_workPhone
+44154,Eric,Freeman,606MRS,1972-09-27,2022-09-30,efreeman@modrailsystems.com,,404-750-3061,,Chicago,employee_workPhone
+44163,Thomas,Ferrick,27600VTP,1987-05-22,2025-04-21,tferrick@stacywitbeck.com,,760-535-9662,,Van Nuys,employee_workPhone
+44186,Michael,Edwards,2858,1958-04-15,2018-10-29,pedwards@stacywitbeck.com,,801-913-0168,,Salt Lake City,employee_workPhone
+44237,Thomas,Hunter,2862,1959-05-28,2018-11-26,thunter@modrailsystems.com,630-746-2703,630-746-2703,,Seattle,employee_workPhone
+44254,Andrea,Vyas,2864,1980-02-20,2018-11-30,amvyas@modrailsystems.com,,310-995-7502,,Littleton,employee_workPhone
+44256,Alison,Steele,2964,1995-05-05,2018-12-10,asteele@stacywitbeck.com,,636-891-4191,,Salt Lake City,employee_workPhone
+44257,Joseph,Bisson,2961,1961-03-13,2018-11-30,jbisson@modrailsystems.com,,603-620-4026,,Littleton,employee_workPhone
+44264,Ethan,Gell,2962,1994-04-05,2018-11-30,egell@modrailsystems.com,,248-505-0584,,Littleton,employee_workPhone
+44272,Billy,Wheeler,2968,1969-11-30,2018-12-18,bwheeler@stacywitbeck.com,,405-655-0378,,Baltimore,employee_workPhone
+44282,Julie,Weidel,2972,1981-02-22,2019-01-07,jweidel@stacywitbeck.com,,619-788-3881,,Lynnwood,employee_workPhone
+44285,Natnael,Gezahegne,2971,1979-02-18,2019-01-07,ngezahegne@stacywitbeck.com,,206-618-5939,,Lynnwood,employee_workPhone
+44300,Stephen,Wallace,5614SW,1982-03-29,2025-07-01,swallace@stacywitbeck.com,,619-207-2374,,El Cajon,employee_workPhone
+44306,Steven,Cole,4776SW,1991-06-07,2024-02-08,,,509-496-5893,,Lynnwood,employee_workPhone
+44311,Matthew,Tannahill,2979,1986-07-09,2019-02-18,mtannahill@stacywitbeck.com,425-772-7320,206-595-6125,,Lynnwood,employee_workPhone
+44315,Ryan,Nelson,2984,1983-10-27,2019-03-11,rnelson@modrailsystems.com,,619-929-6765,,El Cajon,employee_workPhone
+44318,Jean,Couto,5437SW,1963-11-02,2025-07-13,,,760-521-5396,,El Cajon,employee_workPhone
+44328,Maverick,Gibbons,2980,1967-05-03,2019-02-25,mgibbons@stacywitbeck.com,,385-335-2462,,Salt Lake City,employee_workPhone
+44357,Kathryn,La Chapelle,2986,1990-07-16,2019-03-13,klachapelle@stacywitbeck.com,,847-840-7171,,Salt Lake City,employee_workPhone
+44379,Kerry,Legarsky,4797SW,1945-02-17,2020-06-16,klegarsky@stacywitbeck.com,253-507-7924,253-229-6007,,DuPont,employee_workPhone
+44424,Joe,Grijalva,2988,1985-02-13,2019-04-22,jgrijalva@stacywitbeck.com,,206-499-8716,,Lynnwood,employee_workPhone
+44471,Luis Angel,Vega Vazquez,5639SW,1997-10-03,2025-09-12,,,951-816-2507,,Long Beach,employee_workPhone
+44529,Alfredo,Estrada Jr.,27502VTP,1987-09-10,2025-10-06,,,657-456-4725,,Van Nuys,employee_workPhone
+44541,Michael,Waters,3006,1972-08-20,2019-06-03,mwaters@stacywitbeck.com,321-423-5945,321-423-0171,,Salt Lake City,employee_workPhone
+44545,Levi,Kelley,3002,1997-12-28,2019-05-29,lkelley@modrailsystems.com,,720-234-8215,,Littleton,employee_workPhone
+44562,Korina,Perkins,3009,2000-01-06,2021-06-21,kperkins@stacywitbeck.com,,509-440-2368,,Dulles,employee_workPhone
+44574,Brandon,Jacobs,3017,1993-06-26,2019-07-15,bjacobs@modrailsystems.com,,425-417-3717,,Lynnwood,employee_workPhone
+44575,Katherine,Acero,3012,2000-11-24,2020-06-15,kacero@stacywitbeck.com,,323-717-9879,,Salt Lake City,employee_workPhone
+44579,Bryan,Sears,5166SW,1987-05-12,2025-06-30,bsears@stacywitbeck.com,,253-355-8518,,Lynnwood,employee_workPhone
+44583,Dustin,Goodman,4867SW,1972-04-29,2024-12-18,dgoodman@stacywitbeck.com,206-290-4112,,,Lynnwood,employee_workPhone
+44594,Ryan,Bodyfelt,3013,1998-01-21,2019-07-01,rbodyfelt@stacywitbeck.com,,503-726-9541,,Portland,employee_workPhone
+44597,Michael,Hatmaker,3015,1966-12-06,2019-07-08,mhatmaker@modrailsystems.com,,770-639-0001,,Littleton,employee_workPhone
+44604,Davis,Kitagawa,3021,1996-10-26,2019-08-12,dkitagawa@modrailsystems.com,,907-317-4834,,Redmond,employee_workPhone
+44645,Tan Lo,Saeteurn,3029,1990-06-24,2019-09-03,tsaeteurn@modrailsystems.com,206-383-4799,425-324-5169,,Lynnwood,employee_workPhone
+44646,Joseph,Furnanz,3020,1999-07-21,2025-02-05,jfurnanz@stacywitbeck.com,,415-307-6571,,Alameda,employee_workPhone
+44666,David,Dunham,4881SW,1980-02-25,2022-07-06,ddunham@stacywitbeck.com,,971-294-9783,,Portland,employee_workPhone
+44687,Daren,Waters,3026,1966-09-18,2019-08-26,dwaters@modrailsystems.com,817-307-3877,,,Redmond,employee_workPhone
+44703,Darren,Langberg,4896SW,1968-08-03,2020-10-20,dlangberg@stacywitbeck.com,,,,Salt Lake City,employee_workPhone
+44711,Kathryn,Hodges,3032,1982-10-14,2019-09-16,khodges@stacywitbeck.com,714-721-6020,,,Salt Lake City,employee_workPhone
+44713,Benji,Smith,3034,1975-05-08,2019-09-30,bsmith@modrailsystems.com,,816-529-5737,,Littleton,employee_workPhone
+44726,Virginia,Waterman,3036,1977-09-16,2019-09-30,vwaterman@modrailsystems.com,303-881-7107,303-881-7107,,Littleton,employee_workPhone
+44739,Kellen,Bowers,3037,1997-01-18,2019-09-30,kbowers@stacywitbeck.com,,425-273-2346,,Lynnwood,employee_workPhone
+44772,Rebecca,Bush,3040,1970-08-30,2019-11-05,rbush@stacywitbeck.com,,312-656-8549,,Las Vegas,employee_workPhone
+44774,Joseph,Bunch,3108,1984-09-01,2020-10-05,jbunch@modrailsystems.com,,918-647-6189,,Littleton,employee_workPhone
+44798,Christian,Hilton,3044,1983-04-30,2019-11-25,chilton@modrailsystems.com,817-995-4570,817-995-4570,,Austin,employee_workPhone
+44800,Jarrod,Green,3043,1972-08-21,2019-11-25,jtgreen@modrailsystems.com,602-349-7770,602-349-7770,,Littleton,employee_workPhone
+44801,Danielle,Johnson,3046,1994-04-04,2023-05-24,djohnson@stacywitbeck.com,425-610-5898,,,Lynnwood,employee_workPhone
+44832,Ryan,Roberts,3055,1980-12-29,2020-01-13,rroberts@stacywitbeck.com,480-307-7678,,,Baltimore,employee_workPhone
+44837,Anthony,Gray,4871SW,1989-05-11,2023-11-15,agray@stacywitbeck.com,,360-490-4696,,Lynnwood,employee_workPhone
+44838,Zhehao,Li,3048,1993-08-17,2020-07-13,mli@modrailsystems.com,206-226-5272,206-226-5272,,Redmond,employee_workPhone
+44851,Matthew,Kuzmick,3060,1967-11-11,2020-02-04,mkuzmick@stacywitbeck.com,805-230-9112,310-570-3450,,Long Beach,employee_workPhone
+44855,Jane,Kibirige,3057,1985-08-05,2020-01-27,jkibirige@stacywitbeck.com,631-617-1564,,,Dulles,employee_workPhone
+44860,Dennis,Nelson,3058,1964-11-05,2020-02-03,tnelson@modrailsystems.com,801-918-3272,,,Salt Lake City,employee_workPhone
+44868,Sarah,Scott,3062,1978-09-16,2020-02-04,sscott@modrailsystems.com,,206-214-5100,,Redmond,employee_workPhone
+44895,Mitchell,Schwab,3066,1998-10-18,2020-03-02,mschwab@stacywitbeck.com,801-543-9990,,,Salt Lake City,employee_workPhone
+44904,Brisa,Aceves,3091,1977-01-29,2020-06-22,baceves@stacywitbeck.com,415-685-7987,415-685-7987,,Alameda,employee_workPhone
+44910,Joseph,Ballard,5581SW,1989-07-21,2025-04-03,,,253-985-1474,,Lynnwood,employee_workPhone
+44931,William,Golubics,3074,1993-03-23,2020-04-27,wgolubics@stacywitbeck.com,925-324-8573,310-971-3862,,Long Beach,employee_workPhone
+44933,Kyle,Sills,3073,1983-06-26,2020-04-20,ksills@stacywitbeck.com,310-497-7224,310-497-7224,,Long Beach,employee_workPhone
+44977,Garrett,Vargas,3079,1985-01-20,2020-05-29,gvargas@stacywitbeck.com,,310-261-0277,,Long Beach,employee_workPhone
+44982,Keegan,Goldrick,3084,2000-08-04,2021-09-01,kgoldrick@stacywitbeck.com,,206-718-7051,,Van Nuys,employee_workPhone
+44985,Mohammed,Uddin,3086,1996-05-07,2020-06-01,fuddin@stacywitbeck.com,480-686-7332,,,Panorama City,employee_workPhone
+44986,Steven,Kilroy,3080,1970-09-17,2020-05-28,skilroy@stacywitbeck.com,602-615-4706,602-615-4706,,Panorama City,employee_workPhone
+45003,Michael,Weber,3087,1972-08-08,2020-06-01,mweber@modrailsystems.com,,720-687-5728,,Chicago,employee_workPhone
+45029,Tyler,Johnson,3090,1990-09-23,2020-06-15,tjohnson@stacywitbeck.com,951-704-4782,321-313-0085,,Dallas,employee_workPhone
+45038,Tri,Le,3095,1965-10-30,2020-06-22,gle@modrailsystems.com,,904-826-5182,,Littleton,employee_workPhone
+45039,Brad,VanHoose,3097,1980-01-27,2020-06-29,bvanhoose@modrailsystems.com,,913-709-0345,,Littleton,employee_workPhone
+45087,Mario,Romo Gonzalez,4991SW,1982-12-10,2024-01-12,mromo@stacywitbeck.com,,707-856-3497,,Sacramento,employee_workPhone
+45090,Rebecca,Moeai,3470,1991-09-12,2025-08-25,bmoeai@stacywitbeck.com,,360-632-1089,,Omaha,employee_workPhone
+45177,Juan,Soto-Felix,5032SW,1997-02-28,2020-08-14,,,385-289-6144,,Salt Lake City,employee_workPhone
+45196,Daniel,Lewis,3104,1983-05-27,2020-08-31,dlewis@stacywitbeck.com,602-370-7929,480-438-9601,,Tempe,employee_workPhone
+45205,Russell,Hall II,3106,1976-04-25,2020-09-14,rhall@stacywitbeck.com,817-456-1192,,,Baltimore,employee_workPhone
+45209,Claire,DeFoor,3107,1993-04-15,2020-10-05,cdefoor@stacywitbeck.com,,321-616-6309,,Long Beach,employee_workPhone
+45232,Nicholas,Bostow,3110,1997-04-05,2020-10-12,nbostow@stacywitbeck.com,503-679-6610,503-679-6610,,Petaluma,employee_workPhone
+45241,Pedro,Alvarado,3373,1986-12-18,2024-07-15,palvarado@modrailsystems.com,,817-776-2616,,Charlotte,employee_workPhone
+45242,Walter,Myrheim,1316MRS,1987-10-30,2023-01-16,cmyrheim@modrailsystems.com,,940-282-7545,,Chicago,employee_workPhone
+45251,Christopher,Horn,3112,1977-06-23,2020-10-29,chorn@stacywitbeck.com,,480-594-9842,,Melbourne,employee_workPhone
+45257,Joshua,Hill,3113,1995-01-28,2020-11-02,whill@stacywitbeck.com,,385-226-3391,,Dulles,employee_workPhone
+45270,Kevin,Pielow,3116,1971-07-17,2020-11-23,kpielow@stacywitbeck.com,,385-492-1713,,Salt Lake City,employee_workPhone
+45272,Jared,Carlson,3115,1987-09-24,2020-11-16,jcarlson@stacywitbeck.com,,623-692-3115,,Baltimore,employee_workPhone
+45311,Eric,Seifert,3118,1985-01-03,2020-12-21,eseifert@stacywitbeck.com,619-708-0594,619-708-0594,,El Cajon,employee_workPhone
+45312,Douglas,Belsheim III,3121,1988-03-07,2021-01-11,dbelsheim@stacywitbeck.com,661-713-6959,,,Salt Lake City,employee_workPhone
+45323,Alice,Heminover,3122,1978-11-14,2021-01-11,aheminover@stacywitbeck.com,,303-512-3817,,Alameda,employee_workPhone
+45332,Charlene,Suarez,3124,2000-02-29,2021-01-11,csuarez@stacywitbeck.com,,562-233-6767,,Malibu,employee_workPhone
+45336,Byron,Godoy,3123,1994-04-03,2021-01-11,bgodoy@stacywitbeck.com,,323-649-0073,,Long Beach,employee_workPhone
+45358,Manuel,Betancourt,3128,1996-10-16,2021-02-08,mbetancourt@stacywitbeck.com,,407-970-5479,,Alameda,employee_workPhone
+45362,Grant,Gleffe,3129,1995-03-18,2021-02-15,ggleffe@stacywitbeck.com,512-914-5074,512-914-5074,,Austin,employee_workPhone
+45369,Ronald,Barnes,3133,1980-11-23,2021-03-15,mbarnes@stacywitbeck.com,3215767742,,,Salt Lake City,employee_workPhone
+45399,Mandi,Olmstead,3138,1975-06-14,2021-04-05,mjolmstead@stacywitbeck.com,907-204-8484,,,Las Vegas,employee_workPhone
+45401,Randall,Pasley,3136,1965-07-03,2021-03-29,rpasley@stacywitbeck.com,907-854-0059,,,Salt Lake City,employee_workPhone
+45415,Oscar,Esparza,5060,1975-03-13,2021-03-29,oesparza@stacywitbeck.com,,562-355-3484,,Van Nuys,employee_workPhone
+45427,William,Delpit,3146,1994-08-08,2021-05-03,bdelpit@stacywitbeck.com,310-503-1363,310-663-8924,,Long Beach,employee_workPhone
+45452,Luis,Rodriguez,5067SW,1975-06-30,2024-03-19,lrodriguez@stacywitbeck.com,,801-391-9780,,Salt Lake City,employee_workPhone
+45453,Traver,Jennings,5065SW,1988-04-17,2024-02-26,tjennings@stacywitbeck.com,,951-538-6550,,Salt Lake City,employee_workPhone
+45454,Anisa,Hill,3142,1987-01-03,2021-04-26,ahill@stacywitbeck.com,,,,Dallas,employee_workPhone
+45462,Pablo,Gonzalez Guillen,3143,1995-03-14,2023-08-21,pgonzalez@stacywitbeck.com,,,,Dallas,employee_workPhone
+45463,Christopher,Wilson,3148,1992-07-28,2021-05-03,cwilson@stacywitbeck.com,203-305-9396,,,Baltimore,employee_workPhone
+45466,Kenneth,Prince,3163,1974-12-07,2021-05-25,kprince@stacywitbeck.com,571-283-3712,703-930-9267,,Alexandria,employee_workPhone
+45468,Marcus,White,3156,2001-09-18,2023-03-13,mwhite@stacywitbeck.com,,737-329-9964,,Dallas,employee_workPhone
+45473,Raquel,Gilliland,3153,2000-06-05,2022-05-16,rgilliland@stacywitbeck.com,928-358-2145,928-358-2145,,Salt Lake City,employee_workPhone
+45477,Shannon,Hall,5593SW,1988-09-04,2025-05-12,shall@swkjv.com,,253-345-9530,,Lynnwood,employee_workPhone
+45481,Laurence,Baumgarten,5070,1975-04-16,2024-12-02,lbaumgarten@stacywitbeck.com,623-980-8385,623-980-8385,,Salt Lake City,employee_workPhone
+45482,Steven,Dill,3160,1961-09-14,2021-05-24,sdill@stacywitbeck.com,,619-385-8752,,Van Nuys,employee_workPhone
+45494,Kenneth,Grindle,3161,1970-09-17,2021-05-25,kgrindle@stacywitbeck.com,,667-205-0855,,Baltimore,employee_workPhone
+45500,Joshua,Keller,3168,1999-01-12,2021-06-07,jkeller@stacywitbeck.com,,803-537-0693,,Baltimore,employee_workPhone
+45501,Jared,Lynch,3169,2001-07-09,2024-05-28,jlynch@stacywitbeck.com,310-719-5502,,,Long Beach,employee_workPhone
+45503,Frank,Beaulieu,3167,1967-11-18,2024-10-07,fbeaulieu@stacywitbeck.com,315-868-5611,315-868-5611,,Baltimore,employee_workPhone
+45505,Thai-Hoa,Hoang,3173,2001-12-09,2024-06-10,thoang@stacywitbeck.com,425-463-8266,,,Panorama City,employee_workPhone
+45513,Nicholas,Baumgarten,5077SW,1995-04-28,2021-06-08,nbaumgarten@stacywitbeck.com,,385-260-1738,,Salt Lake City,employee_workPhone
+45534,Alyssa,Roy,3185,1986-09-27,2021-07-06,aroy@stacywitbeck.com,,415-949-9021,,Alameda,employee_workPhone
+45547,Jacob,Kuzmick,3183,2003-05-30,2025-12-15,jkuzmick@stacywitbeck.com,,805-630-9885,,Long Beach,employee_workPhone
+45563,Suhas,Patil,3187,1996-02-27,2021-07-28,spatil@stacywitbeck.com,682-283-4802,,,Omaha,employee_workPhone
+45566,Sean,Vaglica,3190,1981-11-07,2021-08-30,svaglica@stacywitbeck.com,,385-408-8571,,Salt Lake City,employee_workPhone
+45604,Ralph,Rodriguez,5096SW,1983-06-27,2024-04-22,rrodriguez@stacywitbeck.com,,714-496-7338,,El Cajon,employee_workPhone
+45620,Luis,Rangel,5102SW,1981-05-23,2022-03-01,lrangel@stacywitbeck.com,,562-755-2728,,Long Beach,employee_workPhone
+45621,Tommy,Smith,5351SW,1992-02-27,2025-04-14,tsmith@stacywitbeck.com,,253-398-6201,,Lynnwood,employee_workPhone
+45652,Longyingfu,Li,3194,1993-05-23,2021-09-30,mli@swkjv.com,,425-480-4549,,Lynnwood,employee_workPhone
+45695,Michael,Copley,3199,1991-05-07,2025-05-27,mcopley@stacywitbeck.com,825-561-2012,702-789-9884,,Las Vegas,employee_workPhone
+45720,Parker,Van de Graaf,3200,2001-05-15,2021-11-15,pvandegraaf@modrailsystems.com,509-840-0227,509-840-0227,,Salt Lake City,employee_workPhone
+45729,Andrew,Smith,3201,1982-07-14,2021-11-29,asmith@modrailsystems.com,816-718-8528,,,Littleton,employee_workPhone
+45732,Ryan,Sullivan,3202,1993-06-26,2021-11-29,rsullivan@modrailsystems.com,,970-980-6358,,Littleton,employee_workPhone
+45735,Tiaja,Wiltshire,3205,1996-09-09,2021-12-13,thwiltshire@stacywitbeck.com,,862-763-6838,,Baltimore,employee_workPhone
+45736,Shamar,Wiltshire,3207,1996-06-21,2021-12-13,swiltshire@stacywitbeck.com,,646-881-0125,,Baltimore,employee_workPhone
+45747,Rachael,Wold,3204,1977-09-27,2021-11-29,rwold@stacywitbeck.com,206-375-4448,206-375-4448,,Van Nuys,employee_workPhone
+45766,Jeffrey,Barnes-Allan,5116SW,1985-12-05,2021-12-06,jbarnesallan@stacywitbeck.com,,530-701-8775,,Salt Lake City,employee_workPhone
+45769,Clayton,Tanner,5118SW,1996-03-31,2024-03-04,ctanner@stacywitbeck.com,,385-287-5192,,Salt Lake City,employee_workPhone
+45778,Barney,Manary,5124SW,1968-06-22,2025-11-19,,,385-775-9191,,Salt Lake City,employee_workPhone
+45784,Maria,Ibarra,3210,1978-10-09,2022-01-10,tibarra@stacywitbeck.com,,,,Austin,employee_workPhone
+45805,Giovanny,Marin,271302VTP,1979-05-30,2025-06-16,gmarin@stacywitbeck.com,,626-652-9864,,Van Nuys,employee_workPhone
+45821,Robert,Koppel,5533SW,1981-08-15,2024-09-13,rkoppel@stacywitbeck.com,,425-599-9912,,Lynnwood,employee_workPhone
+45833,Dustin,Williams,5140SW,1985-12-20,2024-03-04,dwilliams@stacywitbeck.com,,804-683-9585,,Salt Lake City,employee_workPhone
+45853,Rosalind,Pierce-Spring,3224,1964-02-10,2022-05-23,rpiercespring@stacywitbeck.com,301-943-9473,,,Alexandria,employee_workPhone
+45868,Alexander,Moreno,3223,2001-11-01,2023-05-30,amoreno@stacywitbeck.com,203-343-5801,971-930-0723,,Baltimore,employee_workPhone
+45877,Jason,Nates,3218,1984-08-16,2022-05-16,jnates@modrailsystems.com,,608-449-3858,,Chicago,employee_workPhone
+45882,Rafael,Llamas,5153SW,1971-06-18,2022-05-09,,,310-508-4827,,Long Beach,employee_workPhone
+45911,Carlos,Flory,5155,1979-07-31,2025-03-24,cflory@stacywitbeck.com,,503-961-3923,,Salt Lake City,employee_workPhone
+45925,Kevin,Hale,3226,1997-01-10,2022-05-31,khale@stacywitbeck.com,907-521-2100,907-521-2100,,Dallas,employee_workPhone
+45929,Grant,Michael,3231,1993-04-17,2022-06-13,gmichael@stacywitbeck.com,,808-927-4384,,Portland,employee_workPhone
+45963,Lauren,Campbell,3233,2001-03-03,2023-09-11,lcampbell@stacywitbeck.com,425-361-5750,,,Panorama City,employee_workPhone
+45974,Marvin,Calvillo,3238,1998-11-13,2022-06-27,mcalvillo@stacywitbeck.com,,,,Las Vegas,employee_workPhone
+46040,Phan,Prum,5170SW,1980-12-21,2024-04-22,,,562-275-5281,,Long Beach,employee_workPhone
+46041,Nicholas,Esparza,27500VTP,2001-03-19,2025-05-05,nesparza@stacywitbeck.com,,562-303-2657,,Van Nuys,employee_workPhone
+46043,Steven,Hackenburg,3247,1993-02-07,2022-08-01,shackenburg@modrailsystems.com,303-981-9621,303-981-9621,,Littleton,employee_workPhone
+46044,Steffanie,Sunga,3248,1988-12-23,2022-08-08,ssunga@stacywitbeck.com,415-595-5926,,,Alameda,employee_workPhone
+46069,Benjamin,Hunziker,5183SW,1989-11-01,2025-10-13,bhunziker@stacywitbeck.com,,360-635-8532,,DuPont,employee_workPhone
+46129,Giles,Dalrymple,3252,1981-04-14,2022-10-03,gdalrymple@stacywitbeck.com,,562-355-7543,,Austin,employee_workPhone
+46130,Wyatt,Tarkalson,3254,2001-01-17,2022-10-03,wtarkalson@stacywitbeck.com,,,,Salt Lake City,employee_workPhone
+46131,Joan,Martinez,3253,1969-08-10,2022-10-03,jamartinez@modrailsystems.com,720-202-0951,,,Littleton,employee_workPhone
+46144,Clint,Thacker,5200SW,1979-11-17,2024-04-22,cthacker@stacywitbeck.com,,801-505-8570,,Salt Lake City,employee_workPhone
+46154,Robert,"Peacock, III",5206SW,2003-09-30,2022-10-03,rwpeacock@stacywitbeck.com,,503-998-1209,,Portland,employee_workPhone
+46174,David,Guzman,5213SW,1996-04-09,2025-09-22,,,323-781-6846,,El Cajon,employee_workPhone
+46177,Jack,Heavey,3255,1997-10-23,2022-11-07,jheavey@stacywitbeck.com,831-706-6057,,,Alameda,employee_workPhone
+46178,Sara,Ross,3256,1981-01-14,2022-11-07,sross@stacywitbeck.com,,435-554-5996,,Salt Lake City,employee_workPhone
+46180,Daniel,Sparks,3260,1963-07-26,2022-11-29,dsparks@stacywitbeck.com,,424-321-1459,,Long Beach,employee_workPhone
+46207,Juan,Ransom Ruiz,3259,1995-03-27,2022-11-28,jransom@stacywitbeck.com,341-348-4909,915-979-3972,,Austin,employee_workPhone
+46218,Zizi,Badagliacca,3258,1975-12-24,2022-11-28,zbadagliacca@stacywitbeck.com,912-688-4071,,,Panorama City,employee_workPhone
+46259,Caroline,Trivelas,3265,1987-09-09,2023-01-17,ctrivelas@modrailsystems.com,904-910-8631,,,Florida,employee_workPhone
+46260,Jhonn Nicholo,Gadiana,3266,1998-09-08,2023-01-18,ngadiana@stacywitbeck.com,,,,Baltimore,employee_workPhone
+46262,Steven,Dupaix,3264,1988-06-05,2023-01-17,zdupaix@stacywitbeck.com,801-703-3899,,,Salt Lake City,employee_workPhone
+46289,Robert,Kneip,3268,1967-08-16,2023-02-06,rkneip@modrailsystems.com,914-208-3509,914-208-3509,,Van Nuys,employee_workPhone
+46291,Natalie,Havens,3269,2000-01-10,2023-02-06,nhavens@stacywitbeck.com,,563-594-8834,,Healdsburg,employee_workPhone
+46303,Cicelia,Thompson,5349SW,2003-05-08,2025-02-03,cthompson@stacywitbeck.com,,253-281-9965,,Lynnwood,employee_workPhone
+46333,Naomi,Loretz,3273,1976-12-29,2023-04-17,nloretz@stacywitbeck.com,916-541-0631,510-673-0133,,Alameda,employee_workPhone
+46339,Ivan,Cabrera Contreras,5286SW,1982-12-12,2023-04-19,icabrera@stacywitbeck.com,,512-995-2552,,Dallas,employee_workPhone
+46349,Larry,Moritz,3275,1960-08-22,2023-05-02,lmoritz@stacywitbeck.com,410-446-1416,,,Van Nuys,employee_workPhone
+46354,Devin,Franke,3276,2003-08-05,2025-06-23,dfranke@stacywitbeck.com,,805-668-5280,,Salt Lake City,employee_workPhone
+46355,Yashika Umesh,Nayak,3279,1998-05-09,2024-06-03,ynayak@stacywitbeck.com,602-628-3377,,,Panorama City,employee_workPhone
+46359,David,Phung,3280,1983-11-27,2023-05-22,dphung@modrailsystems.com,678-315-6768,678-315-6768,,Littleton,employee_workPhone
+46361,Jack,Steele,3282,2000-03-17,2024-05-28,jsteele@stacywitbeck.com,801-230-6673,,,Salt Lake City,employee_workPhone
+46373,Jessica,Mikhail,3293,2001-03-10,2024-05-28,jmikhail@stacywitbeck.com,714-307-0203,,,Long Beach,employee_workPhone
+46374,Kari,Buchanan,3288,1980-11-03,2023-05-30,kbuchanan@modrailsystems.com,303-880-3072,303-880-3072,,Littleton,employee_workPhone
+46376,Nick,Robinson,3286,1993-01-18,2023-05-30,nrobinson@modrailsystems.com,815-405-2270,,,Chicago,employee_workPhone
+46377,Thomas,Stogin,3295,2002-02-08,2024-05-28,tstogin@stacywitbeck.com,,708-224-5578,,Alexandria,employee_workPhone
+46378,Robert,Bushnell,3289,1980-10-16,2023-05-30,rbushnell@stacywitbeck.com,720-939-3614,720-939-3614,,Panorama City,employee_workPhone
+46379,Tyler,Luginbuhl,3292,1994-11-03,2023-05-30,tluginbuhl@stacywitbeck.com,,513-335-4815,,Salt Lake City,employee_workPhone
+46396,Kavana,Sadashive Gowda,3299,1997-12-11,2024-06-10,kgowda@stacywitbeck.com,602-517-6058,,,Long Beach,employee_workPhone
+46403,Francisco,Hermengildo Garcia,5312SW,1984-02-11,2025-04-09,fhgarcia@stacywitbeck.com,,503-995-8269,,Portland,employee_workPhone
+46444,Michael,Tung,3304,1987-05-17,2023-07-05,mtung@stacywitbeck.com,310-261-0853,310-261-0853,,Long Beach,employee_workPhone
+46453,Tyler,Furey,3305,1993-07-02,2023-07-10,tfurey@stacywitbeck.com,801-548-2459,,,Salt Lake City,employee_workPhone
+46455,Surajkumar,Krishna Kumar,3306,1993-07-20,2023-07-10,skumar@stacywitbeck.com,,352-215-3379,,Van Nuys,employee_workPhone
+46463,Joseph,Henry,3309,1985-11-05,2023-07-19,jhenry@stacywitbeck.com,503-806-5371,310-261-1496,,Long Beach,employee_workPhone
+46464,Shawn,Elliott,3310,2000-04-06,2023-07-25,selliott@stacywitbeck.com,,,,Panorama City,employee_workPhone
+46473,Isaiah,Williams,3311,1998-02-21,2023-07-31,iwilliams@stacywitbeck.com,,512-434-3813,,Baltimore,employee_workPhone
+46478,Damon,Latham,3312,1986-11-16,2023-08-07,dlatham@stacywitbeck.com,253-414-5262,,,Salt Lake City,employee_workPhone
+46482,Zoe,Wahl,3315,2001-03-05,2023-08-14,zwahl@stacywitbeck.com,,385-414-7635,,Salt Lake City,employee_workPhone
+46483,Devin,Bombalicky-Tingle,3314,1998-11-19,2023-08-14,dbombalickytingle@modrailsystems.com,720-275-8250,,,Salt Lake City,employee_workPhone
+46493,Joel,Bryant,3317,1987-01-04,2023-09-05,jbryant@stacywitbeck.com,424-217-0777,,,Panorama City,employee_workPhone
+46497,Harsh,Mehta,3318,1994-09-30,2023-09-11,hmehta@stacywitbeck.com,669-204-6713,669-204-6713,,Alameda,employee_workPhone
+46501,Cesar,Chaires,5387SW,1991-07-17,2023-09-08,cchaires@stacywitbeck.com,,626-592-9137,,Long Beach,employee_workPhone
+46513,Di,Zhang,3325,1991-06-25,2023-11-27,dzhang@stacywitbeck.com,765-337-6897,,,Van Nuys,employee_workPhone
+46522,David,Kipling,3321,1996-07-31,2023-10-16,dkipling@modrailsystems.com,,531-772-6717,,Littleton,employee_workPhone
+46525,Marcus,Gray,3322,1985-10-04,2023-10-30,mgray@modrailsystems.com,678-787-5429,,,Florida,employee_workPhone
+46526,Skylar,Baxter,3323,1994-07-27,2023-11-06,sbaxter@modrailsystems.com,801-369-5002,,,Salt Lake City,employee_workPhone
+46527,Josie,Johnson,3324,2001-03-16,2023-11-06,jjohnson@stacywitbeck.com,971-337-6917,,,Tempe,employee_workPhone
+46533,Serena,Manalili,3327,1999-09-19,2023-12-18,smanalili@stacywitbeck.com,510-499-6677,510-499-6677,,Alameda,employee_workPhone
+46537,Noemy,Sanchez,3329,2001-10-26,2024-01-16,nsanchez@modrailsystems.com,323-742-0001,,,Van Nuys,employee_workPhone
+46587,Marwan,Hassan,3330,2001-09-01,2025-05-05,mhassan@stacywitbeck.com,801-803-9708,,,Salt Lake City,employee_workPhone
+46590,Christopher,Ponds,3333,1974-02-03,2024-02-12,cponds@stacywitbeck.com,310-261-7217,,,Long Beach,employee_workPhone
+46591,Rene,Lim,3332,1967-04-29,2024-02-12,rlim@stacywitbeck.com,510-343-4785,510-552-9280,,Alameda,employee_workPhone
+46592,Vincent,Almario,3331,1982-12-02,2024-02-12,valmario@stacywitbeck.com,949-394-8955,310-321-9507,,Long Beach,employee_workPhone
+46593,Maria,Ruiz,3334,1977-03-12,2024-02-20,mruiz@stacywitbeck.com,562-485-7055,562-485-7055,,Long Beach,employee_workPhone
+46594,Gregory,Van de Graaf,3336,1965-09-22,2024-02-26,gvandegraaf@modrailsystems.com,509-840-0200,509-840-0200,,Redmond,employee_workPhone
+46595,Paula,Nacif,3335,1977-03-11,2024-02-26,pnacif@stacywitbeck.com,786-459-1915,,,Baltimore,employee_workPhone
+46597,Shahrzad,Ghorbannia,3337,2001-09-09,2024-03-04,sghorbannia@stacywitbeck.com,510-935-9470,510-935-9470,,Alameda,employee_workPhone
+46598,Regan,Heineke,3338,1982-10-23,2024-03-11,rheineke@stacywitbeck.com,419-283-5291,,,Lynnwood,employee_workPhone
+46603,Zachary,Moss,5449SW,1986-09-28,2024-03-05,zmoss@stacywitbeck.com,,801-259-2676,,Salt Lake City,employee_workPhone
+46607,Alfonso,Lemus,5446SW,1966-04-01,2024-03-05,,,801-860-8510,,Salt Lake City,employee_workPhone
+46609,Cherish,Stalcup,3339,1980-10-07,2024-03-13,cstalcup@stacywitbeck.com,972-946-4815,,,Dallas,employee_workPhone
+46616,Justin,Warner,5456SW,1992-08-08,2024-03-14,jwarner@stacywitbeck.com,,385-335-2295,,Salt Lake City,employee_workPhone
+46620,Jose,Cabello,5457SW,1982-06-29,2024-03-14,jcabello@stacywitbeck.com,,385-252-0989,,Salt Lake City,employee_workPhone
+46627,Anthony,Guisa,5462SW,1976-04-29,2025-12-02,aguisa@stacywitbeck.com,,562-479-8165,,Long Beach,employee_workPhone
+46636,Jonathan,Garrett,5469SW,1995-06-21,2024-04-17,jgarrett@stacywitbeck.com,,714-788-4461,,Salt Lake City,employee_workPhone
+46637,Daniel,Moreno,5473SW,1998-01-28,2024-04-24,,,562-446-7378,,Long Beach,employee_workPhone
+46640,Toby,Cahall,323MRS,1979-07-07,2024-04-30,tcahall@modrailsystems.com,,406-531-3726,,Chicago,employee_workPhone
+46646,Jacob,Poe,1611MRS,1986-10-07,2024-04-30,jpoe@modrailsystems.com,,417-270-6478,,Chicago,employee_workPhone
+46647,Rustin,Ostler,5475SW,1983-05-15,2025-11-19,,,435-201-4516,,Salt Lake City,employee_workPhone
+46655,Braden,Lloyd,3347,2002-09-20,2025-08-04,blloyd@stacywitbeck.com,419-921-6530,419-921-6530,,Salt Lake City,employee_workPhone
+46656,Wayne,Watts,3349,1987-03-13,2024-05-20,wwatts@stacywitbeck.com,945-324-5332,945-324-5332,,Dallas,employee_workPhone
+46661,Tanusha Tanaji,Chankhore,3343,1999-09-02,2025-01-13,tchankhore@stacywitbeck.com,682-377-1606,682-377-1606,,Dallas,employee_workPhone
+46663,Jonathan,Nunez,5478SW,1999-09-30,2024-05-14,jnunez@stacywitbeck.com,,801-674-2921,,Salt Lake City,employee_workPhone
+46667,Esther,Morrison,3353,2004-02-21,2025-09-16,emorrison@stacywitbeck.com,,562-821-1923,,Alameda,employee_workPhone
+46668,Janhavi,Shinde,3356,2001-01-24,2025-02-18,jshinde@stacywitbeck.com,,352-283-3001,,Tempe,employee_workPhone
+46673,Julian,Sepeda,3354,1971-02-13,2024-05-28,jsepeda@stacywitbeck.com,,703-906-9021,,Baltimore,employee_workPhone
+46691,Casey,Hansen,5495SW,1986-01-12,2024-06-03,chansen@stacywitbeck.com,,801-608-2591,,Salt Lake City,employee_workPhone
+46698,Beatris,Cardenas,3360,1995-11-08,2025-06-09,acardenas@stacywitbeck.com,,510-856-8021,,Panorama City,employee_workPhone
+46699,Xavier,Martinez,3362,2002-06-14,2024-06-10,xmartinez@stacywitbeck.com,562-350-9708,562-350-9708,,Long Beach,employee_workPhone
+46700,Diana,Bird,3363,1986-02-18,2024-06-17,dbird@stacywitbeck.com,435-228-8272,435-228-8272,,Salt Lake City,employee_workPhone
+46701,Alexa,Selby,3364,2001-08-21,2024-06-17,aselby@modrailsystems.com,,,,Littleton,employee_workPhone
+46714,Hunter,Viall,3370,2002-09-07,2025-08-04,hviall@stacywitbeck.com,509-670-5286,509-670-5286,,Portland,employee_workPhone
+46716,Breanne,Crow,3371,1989-10-30,2024-07-08,bcrow@stacywitbeck.com,,,,Long Beach,employee_workPhone
+46717,Hiep,Nguyen,3372,1986-02-20,2024-07-08,hnguyen@modrailsystems.com,904-274-0220,904-274-0220,,Littleton,employee_workPhone
+46718,Clint,Thacker Jr.,5510SW,2006-07-03,2024-07-11,,,801-618-8595,,Salt Lake City,employee_workPhone
+46719,Kelly,Hansen,5509SW,1966-05-02,2024-07-11,,,801-310-1044,,Salt Lake City,employee_workPhone
+46725,Darion,Brown,3374,1994-12-28,2024-07-22,dbrown@stacywitbeck.com,4159615638,512-660-3212,,Dallas,employee_workPhone
+46727,Carlos,Moran,3375,1992-12-15,2024-07-22,cmoran@stacywitbeck.com,562-221-1665,,,Salt Lake City,employee_workPhone
+46734,Roberto,Ramirez-Zavala,5518SW,1985-06-12,2024-07-30,,,801-205-7718,,Salt Lake City,employee_workPhone
+46735,Alex,Mayor Betahncourt,5517SW,1988-02-24,2024-08-01,,,385-482-6303,,Salt Lake City,employee_workPhone
+46738,Nicolas,Lopez-Santiago,5519SW,1970-05-09,2024-08-06,,,801-915-9756,,Salt Lake City,employee_workPhone
+46741,Felipe,Flores,3378,1976-07-16,2024-08-19,fflores@stacywitbeck.com,,907-980-9702,,Dallas,employee_workPhone
+46746,Silvestre,Rangel,5524SW,2005-09-18,2024-08-13,silvestrerangel@stacywitbeck.com,,801-317-9147,,Salt Lake City,employee_workPhone
+46747,Gary,Greenlaw,5594SW,1973-01-19,2025-05-12,ggreenlaw@stacywitbeck.com,,425-999-9298,,Lynnwood,employee_workPhone
+46754,Sumedha,Shrestha,3380,2002-02-07,2024-09-09,sshrestha@modrailsystems.com,720-243-7300,,,Littleton,employee_workPhone
+46755,Ancillita,To,3379,1978-03-27,2024-09-09,eto@stacywitbeck.com,562-373-8457,562-373-8457,,Long Beach,employee_workPhone
+46760,Marissa,Barwick,3382,2000-01-24,2024-09-16,mbarwick@stacywitbeck.com,,801-884-6590,,Salt Lake City,employee_workPhone
+46761,Adian,Alseth,3381,1998-09-09,2024-09-16,aalseth@stacywitbeck.com,,,,Long Beach,employee_workPhone
+46762,Hector,Velazco,5534SW,1966-03-15,2025-06-16,hvelazco@stacywitbeck.com,,562-440-7287,,El Cajon,employee_workPhone
+46779,Daden,Phillips,5675SW,2005-08-19,2025-08-22,dphillips@modrailsystems.com,,530-388-0708,,El Cajon,employee_workPhone
+46780,Daniel,Cruz,3384,1971-06-19,2024-10-14,dcruz@stacywitbeck.com,925-570-4784,925-570-4784,,Alameda,employee_workPhone
+46781,Maryella,Vazquez,3385,1989-11-04,2024-10-14,mvazquez@stacywitbeck.com,818-272-0593,818-272-0593,,Van Nuys,employee_workPhone
+46783,Osvaldo,Vargas,3386,2000-11-15,2024-10-15,ovargas@stacywitbeck.com,817-897-8342,,,Dallas,employee_workPhone
+46784,Melissa,Garcia,3387,2001-07-16,2024-10-21,mgarcia@stacywitbeck.com,714-855-9671,714-855-9671,,Long Beach,employee_workPhone
+46785,Isaac,Stalcup,5538SW,2000-10-05,2024-10-23,,,808-367-2270,,Dallas,employee_workPhone
+46789,Dino,Martinez,3389,2001-06-26,2024-11-04,dmartinez@stacywitbeck.com,,,,Long Beach,employee_workPhone
+46790,Stephanie,Rivera,3390,1993-05-07,2024-11-04,srivera@stacywitbeck.com,,818-314-9213,,Panorama City,employee_workPhone
+46791,Xuequn,Li,3388,1969-09-12,2024-11-04,jli@stacywitbeck.com,,650-559-6076,,Alameda,employee_workPhone
+46792,Jacob,Garrison,714MRS,2000-08-10,2025-08-18,jgarrison@modrailsystems.com,,662-544-1463,,Chicago,employee_workPhone
+46796,Anthony,Knight,5544SW,2000-10-03,2024-11-01,aknight@stacywitbeck.com,,801-916-5149,,Salt Lake City,employee_workPhone
+46797,Alexander,Joseph,3391,1973-05-17,2024-11-11,ajoseph@stacywitbeck.com,214-868-5780,,,Austin,employee_workPhone
+46798,Mark,Schwinghammer,3392,1979-12-17,2024-11-11,mschwinghammer@modrailsystems.com,320-492-6492,320-492-6492,,Florida,employee_workPhone
+46810,Venkatesh,Kumanan,3393,1994-05-21,2024-11-18,vkumanan@stacywitbeck.com,352-328-0029,352-328-0029,,Baltimore,employee_workPhone
+46811,Farris,Mughannam,3394,2000-01-11,2024-11-19,fmughannam@modrailsystems.com,707-772-6959,,,Panorama City,employee_workPhone
+46813,Jacob,Tabor,5546SW,1996-04-28,2024-11-18,jtabor@stacywitbeck.com,,310-467-5061,,Long Beach,employee_workPhone
+46815,Claire,Burkhardt,3395,1984-11-11,2024-11-25,cburkhardt@modrailsystems.com,502-541-2761,502-541-2761,,Florida,employee_workPhone
+46816,Sanai,Hennessee,3396,1969-11-18,2024-12-09,shennessee@stacywitbeck.com,,503-713-3308,,Austin,employee_workPhone
+46821,Johnathan,Macias Rubio,271806VTP,1999-12-16,2026-02-09,,,213-601-9014,,Van Nuys,employee_workPhone
+46822,Klarissa,Arriaga,3397,2002-10-25,2024-12-09,karriaga@stacywitbeck.com,,210-803-0309,,Dallas,employee_workPhone
+46824,Michael,Apeatu,3398,1994-07-27,2025-07-07,mapeatu@stacywitbeck.com,,206-851-2657,,Lynnwood,employee_workPhone
+46826,William,Hopkins,3399,1985-09-01,2024-12-16,whopkins@stacywitbeck.com,240-353-8812,240-353-8812,,Baltimore,employee_workPhone
+46828,Kolby,Orme,3401,1994-11-02,2025-01-06,korme@stacywitbeck.com,801-400-1656,385-400-8327,,Salt Lake City,employee_workPhone
+46829,Ronnie,Rodriguez,3402,1987-08-22,2025-01-06,rrodriguez@modrailsystems.com,801-473-2455,,,Salt Lake City,employee_workPhone
+46834,Adam,Crosby,3404,1999-05-03,2025-01-13,acrosby@stacywitbeck.com,801-920-9433,,,Salt Lake City,employee_workPhone
+46835,Dylan,Hamm,3405,2002-10-15,2025-07-21,dhamm@stacywitbeck.com,,657-545-0000,,San Diego,employee_workPhone
+46836,Lempi,Miller,3406,1973-04-01,2025-01-13,lmiller@stacywitbeck.com,510-593-4360,510-593-4360,,Alameda,employee_workPhone
+46837,Michelle,Bjorklund,3403,1979-01-08,2025-01-13,mbjorklund@stacywitbeck.com,385-234-7077,385-234-7077,,Salt Lake City,employee_workPhone
+46838,Michael,Yamaguchi,3407,2003-12-19,2025-12-29,myamaguchi@stacywitbeck.com,,626-434-9586,,Alameda,employee_workPhone
+46840,Christopher,Pollnow,3410,1994-05-19,2025-01-21,cpollnow@modrailsystems.com,501-288-3842,501-288-3842,,Salt Lake City,employee_workPhone
+46841,Grace,Havener,3409,1999-08-27,2025-01-21,ghavener@stacywitbeck.com,407-701-0040,407-701-0040,,Salt Lake City,employee_workPhone
+46842,Fantasia,Franco,3408,1997-07-14,2025-01-21,ffranco@stacywitbeck.com,801-719-9746,385-459-6638,,Salt Lake City,employee_workPhone
+46845,Derek,Larsen,3411,1997-08-28,2025-01-27,dlarsen@stacywitbeck.com,,657-272-1967,,Salt Lake City,employee_workPhone
+46846,Robert,Robles,271800VTP,1969-12-13,2025-01-27,rrobles@stacywitbeck.com,,818-574-9079,,Van Nuys,employee_workPhone
+46848,Jose,Valencia,272200VTP,1998-08-27,2025-01-27,jvalencia@stacywitbeck.com,,661-505-5560,,Van Nuys,employee_workPhone
+46849,Janelle,Martinez,3413,1998-05-18,2025-02-03,jmartinez@stacywitbeck.com,562-588-6349,562-588-6349,,Long Beach,employee_workPhone
+46851,Roman,Estupinan Quezada,3414,2000-11-28,2025-02-06,rquezada@modrailsystems.com,720-429-5399,,,Littleton,employee_workPhone
+46865,Dexter,Seavello,3416,1987-10-09,2025-02-18,dseavello@modrailsystems.com,619-342-6942,619-342-6942,,Van Nuys,employee_workPhone
+46873,Timothy,Cheplic,3417,1989-10-05,2025-02-24,tcheplic@modrailsystems.com,412-337-4441,412-337-4441,,Littleton,employee_workPhone
+46874,Kevin,Williams,272300VTP,1984-10-28,2025-02-24,,,661-431-5292,,Van Nuys,employee_workPhone
+46875,Michael,Simmons,271900VTP,1970-05-19,2025-02-24,msimmons@stacywitbeck.com,661-433-2077,661-621-1854,,Van Nuys,employee_workPhone
+46877,Brayan,Valdez,5570SW,2003-07-03,2025-02-25,bvaldez@stacywitbeck.com,,385-443-9431,,Salt Lake City,employee_workPhone
+46878,Mythreyie,Divyakola,3418,1992-08-01,2025-03-03,mdivyakola@stacywitbeck.com,408-644-8745,408-644-8745,,Salt Lake City,employee_workPhone
+46879,Tyler,Stump,3419,1999-01-24,2025-03-03,tstump@stacywitbeck.com,805-910-6673,805-910-6673,,Long Beach,employee_workPhone
+46881,Rodrigo,Covarrubias,27300VTP,1984-10-29,2025-03-03,rcovarrubias@stacywitbeck.com,,626-890-7763,,Van Nuys,employee_workPhone
+46882,Alonso,Garcia,27701VTP,1983-08-27,2025-03-03,alonsogarcia@stacywitbeck.com,,818-923-4740,,Van Nuys,employee_workPhone
+46883,Gretchen,Price,3420,1979-08-21,2025-03-10,gprice@stacywitbeck.com,415-264-7512,415-264-7512,,Alameda,employee_workPhone
+46884,Casey,Goldin,3427,1985-12-01,2025-04-28,cgoldin@modrailsystems.com,,360-901-6512,,Lynnwood,employee_workPhone
+46885,John,Burggraf,3421,1958-11-04,2025-03-12,jburggraf@stacywitbeck.com,801-440-4113,,,Salt Lake City,employee_workPhone
+46887,Pastor De Jesus,Cortez,27301VTP,1974-04-05,2025-03-12,pcortez@stacywitbeck.com,661-429-5094,661-874-5774,,Van Nuys,employee_workPhone
+46893,Everardo,Arias,27100VTP,1968-12-20,2025-03-17,earias@stacywitbeck.com,,951-210-6442,,Van Nuys,employee_workPhone
+46894,Todd,Steinert,3423,1976-10-11,2025-03-24,tsteinert@stacywitbeck.com,,949-466-6493,,Alameda,employee_workPhone
+46895,Leolei,Roberts,5576,2000-04-18,2025-08-25,lroberts@stacywitbeck.com,,801-520-4133,,Salt Lake City,employee_workPhone
+46897,Ryan,Essington,3422,1988-04-15,2025-03-24,ressington@modrailsystems.com,,850-865-1500,,Florida,employee_workPhone
+46900,Juan,Aguilar Hernandez,5579SW,1991-02-12,2025-03-24,juanaguilar@stacywitbeck.com,,424-205-3095,,Long Beach,employee_workPhone
+46901,Francisco,Rodriguez,5578SW,2003-09-29,2025-03-24,franciscorodriguez@stacywitbeck.com,,562-287-2987,,El Cajon,employee_workPhone
+46902,Christian,Slawson,5577SW,1978-01-04,2025-03-25,,,954-242-2448,,Salt Lake City,employee_workPhone
+46904,Nicholas,Kingsley,5684SW,1985-01-28,2026-02-04,,,760-533-6596,,Long Beach,employee_workPhone
+46905,Stephanie,Betancourt,3424,1993-09-15,2025-04-07,sbetancourt@stacywitbeck.com,,619-909-7306,,El Cajon,employee_workPhone
+46906,Netanya,Oviedo,3425,2001-11-28,2025-04-07,noviedo@stacywitbeck.com,858-922-1809,858-922-1809,,El Cajon,employee_workPhone
+46907,Francisco,Ramirez,271801VTP,1994-12-25,2025-03-31,,,310-847-9053,,Van Nuys,employee_workPhone
+46911,Panfilo,Cuevas Turrubiartes,5584SW,1995-08-10,2025-04-07,,,469-445-8814,,Dallas,employee_workPhone
+46921,Adriana,Hemzacek,3428,1981-05-25,2025-04-29,ahemzacek@stacywitbeck.com,312-505-5751,312-505-5751,,Salt Lake City,employee_workPhone
+46922,Mary,Helffrich,3429,1971-03-11,2025-04-28,mhelffrich@stacywitbeck.com,714-737-7155,714-737-7155,,Long Beach,employee_workPhone
+46924,Thomas,Haney,27800VTP,1986-01-03,2025-04-28,thaney@stacywitbeck.com,,562-242-6963,,Van Nuys,employee_workPhone
+46927,Georgy,Permiakov,3432,1997-04-23,2025-05-05,gpermiakov@stacywitbeck.com,,,,Portland,employee_workPhone
+46928,Reuben,Rose,3433,2002-02-15,2026-01-20,rrose@stacywitbeck.com,801-815-8891,,,Salt Lake City,employee_workPhone
+46932,Marcus,Holder,3435,1995-06-05,2025-05-12,mholder@stacywitbeck.com,801-803-2951,801-803-2951,,Salt Lake City,employee_workPhone
+46933,Richard,Spinner,3439,1974-09-12,2025-05-12,rspinner@stacywitbeck.com,301-633-8652,,,Baltimore,employee_workPhone
+46935,Miguel,Gomez,3440,1995-12-19,2025-05-19,mgomez@stacywitbeck.com,210-883-7730,210-883-7730,,Salt Lake City,employee_workPhone
+46936,Michael,Ige,3441,1997-03-06,2025-05-19,mige@stacywitbeck.com,,410-493-4912,,Alexandria,employee_workPhone
+46940,Hunter,Orueta,3444,2004-04-08,2026-01-05,horueta@stacywitbeck.com,602-582-5652,,,Tempe,employee_workPhone
+46945,Evan,Westerlund,3451,1991-04-19,2025-05-27,ewesterlund@stacywitbeck.com,,410-841-8824,,Long Beach,employee_workPhone
+47010,Arreanna,Alvarez,3447,1985-06-10,2025-05-27,aalvarez@stacywitbeck.com,,404-964-2192,,Alameda,employee_workPhone
+47014,Nicholas,Anderson,5595SW,1990-08-16,2025-05-20,,,503-457-6925,,Portland,employee_workPhone
+47015,Diego,Esquivel,27501VTP,1991-09-30,2025-06-02,desquivel@stacywitbeck.com,,626-506-4437,,Van Nuys,employee_workPhone
+47016,Terrell,Harder,5602SW,1998-03-03,2025-06-03,tharder@stacywitbeck.com,,785-829-1094,,Salt Lake City,employee_workPhone
+47019,Adrian,Medina,271301VTP,1978-05-25,2025-06-09,,,323-244-6824,,Van Nuys,employee_workPhone
+47020,Odelia,Morales,271300VTP,1987-02-12,2025-06-09,,,353-517-7138,,Van Nuys,employee_workPhone
+47021,Richard,Corona,27302VTP,1985-02-23,2025-06-02,rcorona@stacywitbeck.com,,626-416-6078,,Van Nuys,employee_workPhone
+47022,William,Jordan,3456,1956-06-29,2025-06-16,rjordan@stacywitbeck.com,443-496-2503,443-496-2503,,Dulles,employee_workPhone
+47030,Juan,Zapata Gonzalez,5607SW,1998-03-20,2025-06-18,,,469-990-0644,,Dallas,employee_workPhone
+47034,Devin,Hill,5608SW,1978-12-30,2025-06-20,dhill@swtacywitbeck.com,,714-600-8720,,Long Beach,employee_workPhone
+47035,Alfonso,Arbaugh,5609SW,1974-08-10,2025-06-20,aarbaugh@stacywitbeck.com,,951-764-0855,,Long Beach,employee_workPhone
+47036,Emmanuel,Hernandez,27801VTP,1982-03-24,2025-06-23,ehernandez@stacywitbeck.com,,951-367-8852,,Van Nuys,employee_workPhone
+47037,Jose,Huerta,27802VTP,1996-03-20,2025-06-23,,,909-329-0089,,Van Nuys,employee_workPhone
+47041,Clinton,Thuo,3464,1998-06-22,2025-06-30,cthuo@stacywitbeck.com,667-415-1578,667-415-1578,,Baltimore,employee_workPhone
+47042,Bhanu Priya,Karuturi,3463,1998-09-02,2025-06-30,bkaruturi@modrailsystems.com,469-588-9412,720-843-6097,,El Cajon,employee_workPhone
+47045,Edward,Rivera,1860MCTC,1983-12-20,2025-07-02,,619-575-0853,619-646-5544,,San Diego,employee_workPhone
+47046,Edgar,Lopez,5670SW,1990-10-22,2025-07-02,,,760-672-4754,,El Cajon,employee_workPhone
+47048,Starrcelis,Simpson,5622SW,2002-05-27,2025-11-14,ssimpson@stacywitbeck.com,,480-904-8727,,Tempe,employee_workPhone
+47049,George,Ramirez,271802VTP,1998-08-05,2025-07-14,,,424-222-4792,,Van Nuys,employee_workPhone
+47055,Andy,Ramos,5620SW,1975-08-20,2025-11-10,,,480-697-0848,,Tempe,employee_workPhone
+47058,Timothy,Stalcup,5619SW,1979-01-03,2025-07-16,,,972-946-4749,,Dallas,employee_workPhone
+47060,Manuel,Calaguas,3465,1976-07-29,2025-07-21,mcalaguas@stacywitbeck.com,510-387-9909,510-387-9909,,Salt Lake City,employee_workPhone
+47061,Michael,Dorsey,5623SW,1990-12-25,2025-07-18,,,301-752-5346,,Dulles,employee_workPhone
+47062,Cesar,Rosales,271803VTP,1985-12-09,2025-07-21,,,818-459-2763,,Van Nuys,employee_workPhone
+47064,Trinidad,Martinez Acevedo,27102VTP,1967-12-28,2025-07-28,,,310-433-0244,,Van Nuys,employee_workPhone
+47065,Hugo,Velasco,272204VTP,1984-11-28,2025-07-28,,,626-636-8091,,Van Nuys,employee_workPhone
+47066,Erick,Avalos,5626SW,1986-02-16,2025-07-28,,,619-990-1723,,El Cajon,employee_workPhone
+47067,Albert,Room,271804VTP,1965-01-07,2025-07-28,aroom@stacywitbeck.com,,818-262-3635,,Van Nuys,employee_workPhone
+47069,Justin,Dempsey,3467,1982-03-14,2025-08-04,jdempsey@stacywitbeck.com,951-200-9350,951-200-9350,,Long Beach,employee_workPhone
+47070,Aleksandr,DiNaro,3468,1996-12-05,2025-08-04,adinaro@modrailsystems.com,717-621-7523,,,Littleton,employee_workPhone
+47072,Juan,Maravilla,5632SW,1977-10-24,2025-08-04,jmaravilla@stacywitbeck.com,,323-228-3679,,Long Beach,employee_workPhone
+47074,Jason,Pineiro,5629SW,1970-07-28,2025-08-04,jpineiro@stacywitbeck.com,,530-305-2639,,Salt Lake City,employee_workPhone
+47076,Raymond,Carter,5633SW,1981-04-06,2025-08-11,,,714-317-3984,,Long Beach,employee_workPhone
+47077,Jonathan,Gonzales,3469,2003-12-17,2025-08-18,jgonzales@stacywitbeck.com,818-617-3045,818-617-3045,,Alameda,employee_workPhone
+47078,Andrew,Petersen,3471,1992-09-19,2025-08-25,apetersen@stacywitbeck.com,417-388-3394,,,Salt Lake City,employee_workPhone
+47080,Marco,Herrera,27803VTP,1992-02-18,2025-08-18,mherrera@stacywitbeck.com,,805-514-4722,,Van Nuys,employee_workPhone
+47083,Mark,Smith,5643SW,1981-01-23,2025-09-12,mlsmith@stacywitbeck.com,,619-780-1150,,El Cajon,employee_workPhone
+47087,Bryan,Smith,271901VTP,1989-01-23,2025-09-03,bsmith@stacywitbeck.com,,818-318-4867,,Van Nuys,employee_workPhone
+47088,Jessica,Wise,3474,1985-12-04,2025-09-08,jwise@modrailsystems.com,303-517-6311,,,Littleton,employee_workPhone
+47089,Bryon,Stovall,3473,1983-07-20,2025-09-08,bstovall@modrailsystems.com,660-619-1167,,,Kansas City,employee_workPhone
+47091,Austin,Spell,3476,1996-07-02,2025-09-15,aspell@stacywitbeck.com,801-695-6339,385-427-3099,,Salt Lake City,employee_workPhone
+47092,Niraj Vijay,Khambalkar,3475,1994-08-15,2025-09-15,nkhambalkar@stacywitbeck.com,480-387-3075,,,Dallas,employee_workPhone
+47093,Jose,Reales,271805VTP,1976-10-20,2025-09-15,jreales@stacywitbeck.com,,818-470-6079,,Van Nuys,employee_workPhone
+47094,Hernan,Mariscal,5640SW,1990-12-19,2025-09-12,,,323-880-9827,,Long Beach,employee_workPhone
+47097,Matias,DeVilliers,3477,2006-02-17,2025-09-22,mdevilliers@stacywitbeck.com,,253-590-9311,,DuPont,employee_workPhone
+47100,Kalep,Davis,27400VTP,1993-02-16,2025-09-22,,,323-363-2359,,Van Nuys,employee_workPhone
+47101,Christian,Portillo,271600VTP,1990-07-24,2025-09-22,,,310-529-1063,,Van Nuys,employee_workPhone
+47102,Twanna,Bryant,3478,1979-11-28,2025-10-06,tbryant@modrailsystems.com,,904-349-2861,,Florida,employee_workPhone
+47105,Fredi,Ceja,5648SW,1991-08-28,2025-10-02,,,714-818-6738,,Long Beach,employee_workPhone
+47107,Pedro,Miranda,5647SW,1969-11-25,2025-09-29,,,703-508-9781,,Dulles,employee_workPhone
+47109,Reginald,Lowe,5652SW,1986-01-18,2025-10-06,rlowe@stacywitbeck.com,,619-884-4225,,El Cajon,employee_workPhone
+47110,Armando,Cota,5651SW,1977-06-28,2025-10-06,,619-574-9760,,,El Cajon,employee_workPhone
+47112,Evereth,Barrera,5649SW,1988-09-09,2025-10-06,ebarrera@stacywitbeck.com,,760-562-3077,,El Cajon,employee_workPhone
+47114,Mohammed,Elsubai,3479,2005-08-15,2025-10-14,melsubai@stacywitbeck.com,214-836-7369,214-836-7369,,Dallas,employee_workPhone
+47115,Carlos,Vasquez,3480,1975-02-14,2025-10-20,cvasquez@stacywitbeck.com,917-434-0645,,,Dulles,employee_workPhone
+47117,Da'Juan,Chaney,3483,1993-12-28,2025-10-27,dchaney@stacywitbeck.com,504-638-8724,,,Dallas,employee_workPhone
+47119,Mandukhai,Bayarsaikhan,3481,1986-11-06,2025-10-27,gbayarsaikhan@stacywitbeck.com,310-382-7493,,,Long Beach,employee_workPhone
+47120,Rashad,Brown,3482,1988-04-15,2025-10-27,rbrown@modrailsystems.com,904-805-3650,904-805-3650,,Florida,employee_workPhone
+47122,Christopher,Washington,1734SW,1987-04-10,2025-10-27,cwashington@stacywitbeck.com,,253-314-6279,,DuPont,employee_workPhone
+47123,Miguel,Torrico,5657SW,1988-03-20,2025-10-29,mtorrico@stacywitbeck.com,,760-274-7442,,El Cajon,employee_workPhone
+47124,Jane,Casper,3484,1986-03-27,2025-11-17,jcasper@stacywitbeck.com,,216-255-2040,,Alameda,employee_workPhone
+47125,Andrew,Garcia,27705VTP,1986-09-29,2025-11-03,,,909-435-9251,,Van Nuys,employee_workPhone
+47129,Donald,Dawson,5658SW,1985-06-17,2025-11-07,,,619-635-0144,,El Cajon,employee_workPhone
+47132,Joseph,Sinohui,5664SW,1994-09-20,2025-11-14,jsinohui@stacywitbeck.com,,602-446-1152,,Tempe,employee_workPhone
+47133,Klancey,Thompson,5665SW,1993-07-28,2025-11-14,kthompson@stacywitbeck.com,,417-300-8345,,Tempe,employee_workPhone
+47134,Ramiro,Velazquez Vargas,5666SW,1975-04-05,2025-11-14,,623-707-6026,,,Tempe,employee_workPhone
+47135,Robert,Sanders,5661SW,1972-08-24,2025-11-14,,,623-282-5794,,Tempe,employee_workPhone
+47136,Ricardo,Alvarez,3485,1999-12-01,2025-11-24,ralvarez@stacywitbeck.com,818-309-3422,818-309-3422,,Panorama City,employee_workPhone
+47137,Aaron,Powell,3487,1989-11-20,2025-11-24,apowell@stacywitbeck.com,,801-830-1942,,Salt Lake City,employee_workPhone
+47138,Andrew,Kitchen,3486,1970-01-22,2025-11-24,akitchen@stacywitbeck.com,732-581-9629,732-581-9629,,Baltimore,employee_workPhone
+47139,Christopher,Madrid,5667SW,1994-07-12,2025-11-18,,,760-675-2044,,El Cajon,employee_workPhone
+47141,Michael,Ware,2319MCTC,1981-07-31,2025-11-18,,,619-246-3221,,San Diego,employee_workPhone
+47144,Anderson,Carasco,5671SW,2005-07-18,2025-11-17,,571-510-1801,571-866-3120,,Dulles,employee_workPhone
+47146,Francisco,Tapia,272000VTP,1972-01-07,2025-11-25,,562-284-7516,626-435-6434,,Van Nuys,employee_workPhone
+47147,Everardo,Angel Nogales,27104VTP,1986-04-03,2025-11-25,,909-282-6023,,,Van Nuys,employee_workPhone
+47148,Dwayne,Keeto,5673SW,1973-08-20,2025-11-26,,,480-749-6064,,Tempe,employee_workPhone
+47149,Edgar,Arredondo,27105VTP,1979-03-21,2025-12-01,,323-617-7245,,,Van Nuys,employee_workPhone
+47150,Dimark,Sok,271902VTP,1980-06-30,2025-12-04,,562-612-9525,,,Van Nuys,employee_workPhone
+47151,Jesus,Rivera,1861MCTC,1997-05-19,2025-12-08,,,760-261-0270,,San Diego,employee_workPhone
+47153,Rudy,Gonzalez,27706VTP,1992-12-04,2025-12-08,,,805-813-7191,,Van Nuys,employee_workPhone
+47154,Rudy,Gonzalez,27707VTP,1960-05-23,2025-12-08,rudygonzalez@stacywitbeck.com,805-416-4709,,,Van Nuys,employee_workPhone
+47155,Irving,Castillo,27304VTP,1997-09-30,2025-12-08,,,818-356-5760,,Van Nuys,employee_workPhone
+47156,Cesar,Noriega,271401VTP,1977-07-28,2025-12-08,,,323-404-3954,,Van Nuys,employee_workPhone
+47157,Jose,Montoya,271303VTP,1970-10-11,2025-12-08,,,626-709-0614,,Van Nuys,employee_workPhone
+47158,Damian,Gonzalez,27704VTP,2001-03-28,2025-10-06,,323-707-5522,,,Van Nuys,employee_workPhone
+47159,Jordan,Lim,3488,2002-11-08,2025-12-15,jlim@stacywitbeck.com,510-415-5779,510-415-5779,,Alameda,employee_workPhone
+47160,Jonathan,Lopez,5674SW,1997-12-09,2025-12-11,,,714-225-6002,,Long Beach,employee_workPhone
+47161,Erik,Camacho,27305VTP,1979-06-08,2025-12-15,,,714-981-6843,,Van Nuys,employee_workPhone
+47162,Jason,Wallace,272302VTP,1984-08-07,2025-12-15,,,626-862-9197,,Van Nuys,employee_workPhone
+47163,Michael,Arzola,27107VTP,1994-04-24,2025-12-15,,,951-474-2797,,Van Nuys,employee_workPhone
+47164,Sylvester,Vangyi,272205VTP,1984-08-03,2025-12-15,svangyi@stacywitbeck.com,,559-313-9011,,Van Nuys,employee_workPhone
+47171,Ernesto,Campos,3489,2000-12-14,2026-01-12,ecampos@stacywitbeck.com,818-266-0563,818-266-0563,,Van Nuys,employee_workPhone
+47172,Grayson,Harter,3491,2000-08-24,2026-01-12,gharter@stacywitbeck.com,951-252-7082,9512527082,,Salt Lake City,employee_workPhone
+47173,Lillyana,Niko,3490,2009-03-26,2026-01-12,lniko@stacywitbeck.com,,385-977-2492,,Salt Lake City,employee_workPhone
+47174,Edward,Li,3493,2001-01-24,2026-01-20,eli@stacywitbeck.com,,206-793-2562,,Lynnwood,employee_workPhone
+47175,Eileen,Aoga,3492,1977-06-19,2026-01-20,eaoga@stacywitbeck.com,,562-388-1741,,Long Beach,employee_workPhone
+47176,Ezekiel,Oluwemimo,3494,2002-10-01,2026-01-20,eoluwemimo@stacywitbeck.com,,682-560-6110,,Dallas,employee_workPhone
+47177,Zachary,White,3495,2001-11-19,2026-01-20,zwhite@stacywitbeck.com,801-717-5803,801-717-5803,,Salt Lake City,employee_workPhone
+47178,Jose,Camacho,5676SW,1993-07-27,2026-01-16,,,562-440-5864,,Long Beach,employee_workPhone
+47179,Adam,Zagorski,3497,1968-10-18,2026-01-28,azagorski@stacywitbeck.com,310-824-3723,310-824-3723,,Long Beach,employee_workPhone
+47180,Anthony,Garcia,3496,2002-10-30,2026-01-26,amgarcia@stacywitbeck.com,,310-387-2931,,Long Beach,employee_workPhone
+47181,Delia,Hernandez,,1977-03-23,2026-01-20,,,760-234-1497,,El Cajon,employee_workPhone
+47182,Mateen,Shahnam,3498,1984-05-23,2026-02-02,mshahnam@stacywitbeck.com,619-743-2936,619-743-2936,,Long Beach,employee_workPhone
+47183,Sherry,Wong,3499,1979-08-04,2026-02-02,swong@stacywitbeck.com,510-295-3648,510-295-3648,,Alameda,employee_workPhone
+47184,Mary,Moon,271304VTP,1976-02-08,2026-01-26,,818-209-8393,,,Van Nuys,employee_workPhone
+47185,Carlos,Pulliam,5678SW,1990-10-24,2026-01-27,,,619-633-4902,,El Cajon,employee_workPhone
+47186,Max,Del Castillo,5683SW,1987-02-01,2026-02-03,,,424-271-1996,,Long Beach,employee_workPhone
+47187,Nick,Montoya,5685SW,1966-05-16,2026-02-05,,,714-287-5563,,Long Beach,employee_workPhone
+47188,Devin,Washington,5682SW,1990-03-17,2026-02-03,,213-670-5851,213-670-5851,,Long Beach,employee_workPhone
+47190,Raul,Corona Mandujano,5686SW,1972-08-12,2026-02-03,,,,,El Cajon,employee_workPhone
+47191,Keki,Wadia,3503,1973-03-11,2026-02-17,kwadia@stacywitbeck.com,443-459-6135,443-459-6135,,Alexandria,employee_workPhone
+47192,Adarsh,Patil,3502,2000-05-23,2026-02-17,apatil@stacywitbeck.com,,623-274-1510,,Baltimore,employee_workPhone
+47193,Alwaleed,Aljazaeri,3500,1999-03-29,2026-02-17,aaljazaeri@modrailsystems.com,,424-385-7869,,Van Nuys,employee_workPhone
+47194,Kylee,Dulyea,3501,2004-04-07,2026-02-17,kdulyea@modrailsystems.com,619-228-6409,619-228-6409,,Van Nuys,employee_workPhone
+47195,Marsha,Peacock,1894,1974-12-21,2026-02-17,mpeacock@stacywitbeck.com,971-227-5262,971-227-5262,,DuPont,employee_workPhone
+47196,Jhamal,Scott,27903VTP,1969-04-02,2026-02-04,,949-678-0660,,,Van Nuys,employee_workPhone
+47197,Alberto,Valencia,5688SW,1981-08-11,2026-02-11,,626-225-2539,626-485-3889,,Long Beach,employee_workPhone
+47199,Seth,Alexander,3504,1980-09-18,2026-02-23,salexander@stacywitbeck.com,,801-910-6008,,Salt Lake City,employee_workPhone
+47200,Shreyans,Patel,,1984-08-12,2026-03-02,spatel@modrailsystems.com,4129793060,4129793060,,Van Nuys,employee_workPhone
+47201,Daniel,Bravo,5690SW,1979-05-18,2026-02-18,dbravo@stacywitbeck.com,619-994-8401,,,Glendale,employee_workPhone
+47202,Ricardo,Fuentes,27601VTP,1977-02-15,2026-02-23,,,,,Van Nuys,employee_workPhone
+47203,Anthony,Zuno,5689SW,1998-07-08,2026-02-12,,,626-488-5787,,Long Beach,employee_workPhone
+47204,Jared,Dulyea,,0000-00-00,2026-03-09,,619-729-7975,,,Van Nuys,employee_workPhone
+47205,Mayra,Plagar,,1995-04-30,2026-03-02,,323-301-9881,323-301-9881,,Van Nuys,employee_workPhone
+47206,Sierra,Wright,,1996-06-10,2026-03-02,smckinnleywright@modrailsystems.com,661-478-7015,,,Salt Lake City,employee_workPhone
+47207,Joshua,Mieth,,1978-01-30,2026-03-09,,7139622527,7139622527,,Austin,employee_workPhone
+47208,Jacob,Poston,5692SW,1992-08-11,2026-02-24,jposton@stacywitbeck.com,,619-920-7894,,El Cajon,employee_workPhone
+47209,Gilberto,Guzman Echeverria,1112SW,1976-06-16,2026-02-24,,,619-751-7054,,El Cajon,employee_workPhone

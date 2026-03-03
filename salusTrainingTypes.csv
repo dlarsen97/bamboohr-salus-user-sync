@@ -1,0 +1,45 @@
+id,name,required,slug,companyId
+39453,CPR/AED & First Aid,false,cpraed--first-aid,1246989
+39454,Crisis Management,false,crisis-management,1246989
+39456,10 Hour OSHA,false,10-hour-osha,1246989
+39457,Supervisor Safety Orientation,false,supervisor-safety-orientation,1246989
+39458,Forklift Operator Certification,false,forklift-operator-certification,1246989
+39459,Supervisor Drug and Alcohol Awareness (Reasonable Suspicion) Non-DOT,false,supervisor-drug-and-alcohol-awareness-reasonable-suspicion-non-dot,1246989
+39460,Safety Culture Excellence Workshop (SCEW),false,safety-culture-excellence-workshop-scew,1246989
+39461,Risk Tolerance and Hazard Recognition,false,risk-tolerance-and-hazard-recognition,1246989
+39462,STCKY Training (Sh!t That Can Kill You),false,stcky-training-sht-that-can-kill-you,1246989
+39463,Aerial Lifts Operator Certification,false,aerial-lifts-operator-certification,1246989
+39464,Heat Illness Prevention - Supervisors,false,heat-illness-prevention---supervisors,1246989
+39465,Hearing Conservation,false,hearing-conservation,1246989
+39466,Heat Illness Prevention - Employees,false,heat-illness-prevention---employees,1246989
+39468,30 Hour OSHA,false,30-hour-osha,1246989
+39469,Bloodborne Pathogens,false,bloodborne-pathogens,1246989
+39470,Safety Assessment Walk (SAW) Training,false,safety-assessment-walk-saw-training,1246989
+39471,Roadway Worker Protection (RWP / Railroad),false,roadway-worker-protection-rwp--railroad,1246989
+39472,Speak Up! / Listen Up!,false,speak-up--listen-up,1246989
+39473,Shift Prep and Stretch Breaks Coach,false,shift-prep-and-stretch-breaks-coach,1246989
+39474,Silica Competent Person,false,silica-competent-person,1246989
+39475,Confined Space Entry,false,confined-space-entry,1246989
+39476,Workplace Violence From Threats to Active Shootings,false,workplace-violence-from-threats-to-active-shootings,1246989
+39477,Fall Protection Competent Person,false,fall-protection-competent-person-,1246989
+39478,Fall Protection Safety,false,fall-protection-safety,1246989
+39479,FRA Post-Accident Determination,false,fra-post-accident-determination,1246989
+39480,Hazard Communication - GHS,false,hazard-communication---ghs,1246989
+39481,Shift Start-Up / Job Briefing,false,shift-start-up--job-briefing,1246989
+39482,Excavations/Trenches Competent Person,false,excavationstrenches-competent-person,1246989
+39483,Job Hazard Analysis,false,job-hazard-analysis-,1246989
+39484,Confined Space Awareness (non-entry),false,confined-space-awareness-non-entry,1246989
+39485,Confined Space Atmospheric Testing (Gas Detectors),false,confined-space-atmospheric-testing-gas-detectors-,1246989
+39486,Confined Space Competent Person,false,confined-space-competent-person,1246989
+39487,Wildfire Smoke Protection - Employees,false,wildfire-smoke-protection---employees,1246989
+39488,Silica Awareness,false,silica-awareness,1246989
+39489,Scaffold User Training,false,scaffold-user-training,1246989
+39490,Foundations for Safety Leadership,false,foundations-for-safety-leadership,1246989
+39491,Equipment Safety Training Program,false,equipment-safety-training-program,1246989
+39492,Excavations/Trenches Safety,false,excavationstrenches-safety,1246989
+39493,Fire Protection/Prevention,false,fire-protectionprevention,1246989
+39494,Rigging Fundamentals,false,rigging-fundamentals,1246989
+39495,Qualified Rigger,false,qualified-rigger,1246989
+39496,Certified Rigger,false,certified-rigger,1246989
+39497,Certified Signal Person,false,certified-signal-person,1246989
+39498,Qualified Signal Person,false,qualified-signal-person,1246989

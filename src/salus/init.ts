@@ -8,6 +8,17 @@ if (!CLIENT_ID || !CLIENT_SECRET) {
     throw new Error("CLIENT_ID and CLIENT_SECRET must be set in .env");
 }
 
+// type createCertificate = {
+//     type: string,    // required The name of the certificate
+//     userId: number, // requiredThe identifier of the user this certificate belongs to
+//     expiryDate: date-time | null,   // The certificate's expiry date
+//         trainingCompanyId: number | null,// The identifier of the company that provided the training for the certificate
+//             approved: boolean | null,// Determines if the certificate has been approved
+//                 approvedByUserId: integer | null,// The identifier of the user who approved the certificate.
+//                     offline: boolean | null,// Determines if offline mode is enabled
+//                         providerId: integer | null,// The identifier of the provider of the certification, this field is company specific.
+//                             companyCertificationTypeId: integer,// required
+// }
 let tokenExpiresAt = 0;
 
 async function refreshAuth(): Promise<void> {
@@ -41,10 +52,10 @@ export async function getSalus() {
 
 export { salus };
 
-if(require.main == module){
+if (require.main == module) {
     async function main() {
         const salus = await getSalus()
-        const response = await salus.search_v1_user__get({limit: 5});
+        const response = await salus.search_v1_user__get({ limit: 5 });
         console.log("response:", response.data.data)
     }
     main();
