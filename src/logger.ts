@@ -58,6 +58,26 @@ export type FailedCertificate = {
     timestamp: string;
 };
 
+export type UpdatedUser = {
+    bambooEeid: string;
+    bambooEmployeeNumber: string | null;
+    salusUserId: number;
+    /** Field-level diff: what changed from→to */
+    changes: Record<string, { from: unknown; to: unknown }>;
+    putPayload: unknown;
+    timestamp: string;
+};
+
+export type FailedUserUpdate = {
+    bambooEeid: string;
+    bambooEmployeeNumber: string | null;
+    salusUserId: number;
+    /** Edit this payload to fix the issue, then retry */
+    putPayload: unknown;
+    error: string;
+    timestamp: string;
+};
+
 export type RunSummary = {
     startTime: string;
     endTime: string;
@@ -68,6 +88,8 @@ export type RunSummary = {
     newUsersAttempted: number;
     usersCreated: number;
     usersFailed: number;
+    usersUpdated: number;
+    userUpdatesFailed: number;
     certificatesCreated: number;
     certificatesFailed: number;
 };
@@ -78,6 +100,8 @@ export class RunLogger {
     private certificateIdMap: CertificateIdMapping[] = [];
     private createdUsers: CreatedUser[] = [];
     private failedUsers: FailedUser[] = [];
+    private updatedUsers: UpdatedUser[] = [];
+    private failedUserUpdates: FailedUserUpdate[] = [];
     private createdCertificates: CreatedCertificate[] = [];
     private failedCertificates: FailedCertificate[] = [];
     private startTime: Date;
@@ -125,6 +149,43 @@ export class RunLogger {
         console.error(`[!] user FAILED  bamboo=${bambooUser.eeid} emp#${bambooUser.employeeNumber}  ${String(error)}`);
     }
 
+    logUserUpdated(
+        bambooUser: BambooEmployee,
+        salusUserId: number,
+        changes: Record<string, { from: unknown; to: unknown }>,
+        putPayload: unknown
+    ) {
+        this.updatedUsers.push({
+            bambooEeid: bambooUser.eeid!,
+            bambooEmployeeNumber: bambooUser.employeeNumber,
+            salusUserId,
+            changes,
+            putPayload,
+            timestamp: new Date().toISOString(),
+        });
+        this.flush();
+        const fields = Object.keys(changes).join(', ');
+        console.log(`[~] user updated  bamboo=${bambooUser.eeid} emp#${bambooUser.employeeNumber} → salus=${salusUserId}  (${fields})`);
+    }
+
+    logUserUpdateFailed(
+        bambooUser: BambooEmployee,
+        salusUserId: number,
+        putPayload: unknown,
+        error: unknown
+    ) {
+        this.failedUserUpdates.push({
+            bambooEeid: bambooUser.eeid!,
+            bambooEmployeeNumber: bambooUser.employeeNumber,
+            salusUserId,
+            putPayload,
+            error: String(error),
+            timestamp: new Date().toISOString(),
+        });
+        this.flush();
+        console.error(`[!] user update FAILED  bamboo=${bambooUser.eeid} emp#${bambooUser.employeeNumber} → salus=${salusUserId}  ${String(error)}`);
+    }
+
     logCertificateCreated(
         bambooEeid: string,
         bambooTrainingId: string,
@@ -169,8 +230,7 @@ export class RunLogger {
         console.error(`  [!] cert FAILED  bambooTraining=${bambooTrainingId} type=${bambooTrainingTypeId}  ${String(error)}`);
     }
 
-    finalize(stats: Omit<RunSummary, 'startTime' | 'endTime' | 'logDir'>) {
-        // Override counts from actual logged data
+    finalize(stats: Omit<RunSummary, 'startTime' | 'endTime' | 'logDir' | 'usersCreated' | 'usersFailed' | 'usersUpdated' | 'userUpdatesFailed' | 'certificatesCreated' | 'certificatesFailed'>) {
         const summary: RunSummary = {
             startTime: this.startTime.toISOString(),
             endTime: new Date().toISOString(),
@@ -178,16 +238,21 @@ export class RunLogger {
             ...stats,
             usersCreated: this.createdUsers.length,
             usersFailed: this.failedUsers.length,
+            usersUpdated: this.updatedUsers.length,
+            userUpdatesFailed: this.failedUserUpdates.length,
             certificatesCreated: this.createdCertificates.length,
             certificatesFailed: this.failedCertificates.length,
         };
         writeFileSync(join(this.dir, 'summary.json'), JSON.stringify(summary, null, 2));
         console.log('\n[logger] run complete');
-        console.log(`  users:        ${summary.usersCreated} created, ${summary.usersFailed} failed`);
-        console.log(`  certificates: ${summary.certificatesCreated} created, ${summary.certificatesFailed} failed`);
-        console.log(`  logs:         ${this.dir}`);
+        if (summary.usersCreated || summary.usersFailed)
+            console.log(`  users created:  ${summary.usersCreated} ok, ${summary.usersFailed} failed`);
+        if (summary.usersUpdated || summary.userUpdatesFailed)
+            console.log(`  users updated:  ${summary.usersUpdated} ok, ${summary.userUpdatesFailed} failed`);
+        console.log(`  certificates:   ${summary.certificatesCreated} created, ${summary.certificatesFailed} failed`);
+        console.log(`  logs:           ${this.dir}`);
         if (summary.usersFailed > 0 || summary.certificatesFailed > 0) {
-            console.log(`  to retry:     npx ts-node src/retry.ts "${this.dir}"`);
+            console.log(`  to retry:       npx ts-node src/retry.ts "${this.dir}"`);
         }
     }
 
@@ -198,6 +263,8 @@ export class RunLogger {
         w('certificate-id-map.json', this.certificateIdMap);
         w('created-users.json', this.createdUsers);
         w('failed-users.json', this.failedUsers);
+        w('updated-users.json', this.updatedUsers);
+        w('failed-user-updates.json', this.failedUserUpdates);
         w('created-certificates.json', this.createdCertificates);
         w('failed-certificates.json', this.failedCertificates);
     }

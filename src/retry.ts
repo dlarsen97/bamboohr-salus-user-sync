@@ -97,10 +97,6 @@ async function retry(logDir: string) {
         salusTotal: 0,
         alreadyMapped: 0,
         newUsersAttempted: failedUsers.length,
-        usersCreated: 0,         // overridden by finalize
-        usersFailed: 0,          // overridden by finalize
-        certificatesCreated: 0,  // overridden by finalize
-        certificatesFailed: 0,   // overridden by finalize
     });
 }
 

@@ -2,3 +2,5 @@
 
 apis/
 .env
+
+/logs

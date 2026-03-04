@@ -28,7 +28,7 @@ async function withRetry<T>(fn: () => Promise<T>, retries = 4, baseDelayMs = 500
 }
 
 export function listEmployeeTrainings(employeeId: number) {
-    return withRetry(() => bamboohr.listEmployeeTrainings({ employeeId }))
+    return withRetry(() => bamboohr.listEmployeeTrainings({ employeeId }), 4, 2000)
 }
 
 const EMPLOYEE_FIELDS = [
@@ -66,21 +66,21 @@ const EMPLOYEE_FIELDS = [
     // "trainingName",
 
     // AFTER THIS POINT THESE FIELDS INTRODUCE DUPLICATES
-    // "emergencyContactName",
-    // "emergencyContactMobilePhone",
-    // "emergencyContactHomePhone",
-    // "emergencyContactWorkPhone",
+    "emergencyContactName",
+    "emergencyContactMobilePhone",
+    "emergencyContactHomePhone",
+    "emergencyContactWorkPhone",
 ];
 
 export type BambooEmployee = {
     eeid: string | null;
-    emergencyContactName: string | null;
     firstName: string | null;
     lastName: string | null;
     employeeNumber: string | null;
     dateOfBirth: string | null;
     hireDate: string | null;
     jobInformationLocation: string | null;
+    emergencyContactName: string | null;
     emergencyContactMobilePhone: string | null;
     emergencyContactHomePhone: string | null;
     emergencyContactWorkPhone: string | null;
@@ -120,6 +120,21 @@ export async function getEmployeesDataset() {
     } while (page <= totalPages);
 
     return results;
+}
+
+export function deduplicateEmployees(employees: BambooEmployee[]): BambooEmployee[] {
+    const byEeid = new Map<string, BambooEmployee[]>();
+    for (const emp of employees) {
+        const key = emp.eeid!;
+        if (!byEeid.has(key)) byEeid.set(key, []);
+        byEeid.get(key)!.push(emp);
+    }
+    return Array.from(byEeid.values()).map(group => {
+        const withContact = group.find(e =>
+            e.emergencyContactMobilePhone || e.emergencyContactHomePhone || e.emergencyContactWorkPhone
+        );
+        return withContact ?? group[0];
+    });
 }
 
 if (require.main === module) {
