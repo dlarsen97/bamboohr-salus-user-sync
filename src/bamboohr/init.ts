@@ -13,6 +13,24 @@ bamboohr.server('https://stacywitbeck.bamboohr.com')
 
 export { bamboohr }
 
+async function withRetry<T>(fn: () => Promise<T>, retries = 4, baseDelayMs = 500): Promise<T> {
+    for (let attempt = 0; attempt <= retries; attempt++) {
+        try {
+            return await fn()
+        } catch (err: any) {
+            if (attempt === retries) throw err
+            const delay = baseDelayMs * 2 ** attempt
+            console.warn(`Attempt ${attempt + 1} failed, retrying in ${delay}ms:`, err?.message ?? err)
+            await new Promise(res => setTimeout(res, delay))
+        }
+    }
+    throw new Error('unreachable')
+}
+
+export function listEmployeeTrainings(employeeId: number) {
+    return withRetry(() => bamboohr.listEmployeeTrainings({ employeeId }))
+}
+
 const EMPLOYEE_FIELDS = [
     "eeid",
     "firstName",
@@ -109,17 +127,17 @@ if (require.main === module) {
     bamboohr.getDataFromDataset({ fields: EMPLOYEE_FIELDS }, { datasetName: 'employee', page: 2, page_size: 2 }).then(asdf => console.log(asdf.data.data))
 }
 export type training = {
-    id: string,
-    employeeId: string,
-    completed: string,
-    notes: string,
-    type: string,
+    id: string;
+    employeeId: string;
+    completed: string;
+    notes: string | null;
+    type: string;
 }
 export type trainingDef = {
     id: string,
     name: string,
     renewable: boolean,
-    frequency: number,
+    frequency: string,
     dueFromHireDate: never[] | {
         unit: string,
         amount: string,
